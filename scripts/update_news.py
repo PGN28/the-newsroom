@@ -8,8 +8,11 @@ import json
 import os
 import re
 import time
+import html
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -52,6 +55,40 @@ def fetch(query, start, end):
     with urllib.request.urlopen(request, timeout=35) as response:
         payload = json.loads(response.read().decode("utf-8"))
     return payload.get("articles", [])
+
+def fetch_google_news(query, start, end):
+    """Fallback RSS feed when GDELT is throttling or unavailable."""
+    search_query = f"{query} after:{start.strftime('%Y-%m-%d')} before:{(end + timedelta(days=1)).strftime('%Y-%m-%d')}"
+    params = urllib.parse.urlencode({
+        "q": search_query,
+        "hl": "en-IN",
+        "gl": "IN",
+        "ceid": "IN:en"
+    })
+    url = "https://news.google.com/rss/search?" + params
+    request = urllib.request.Request(
+        url, headers={"User-Agent": "Mozilla/5.0 (compatible; TheNewsroom/1.0)"}
+    )
+    with urllib.request.urlopen(request, timeout=25) as response:
+        root = ET.fromstring(response.read())
+    articles = []
+    for node in root.findall("./channel/item"):
+        source_node = node.find("source")
+        pubdate = node.findtext("pubDate", "")
+        published = None
+        if pubdate:
+            try:
+                published = parsedate_to_datetime(pubdate).astimezone(timezone.utc)
+            except (TypeError, ValueError, OverflowError):
+                pass
+        articles.append({
+            "title": node.findtext("title", ""),
+            "url": node.findtext("link", ""),
+            "domain": (source_node.text or "").strip() if source_node is not None else "",
+            "seendate": published.strftime("%Y%m%dT%H%M%SZ") if published else "",
+            "description": node.findtext("description", "")
+        })
+    return articles
 
 def clean_title(value):
     value = re.sub(r"\s+", " ", str(value or "")).strip()
@@ -97,10 +134,19 @@ def main():
     for section, query in QUERIES.items():
         try:
             articles = fetch(query, start, now)
+            if not articles:
+                raise RuntimeError("GDELT returned no articles")
+            source_name = "GDELT DOC API"
         except Exception as exc:
-            print(f"Warning: {section} query failed: {exc}")
-            articles = []
-        print(f"{section}: fetched {len(articles)}")
+            print(f"Warning: {section} GDELT query failed: {exc}; trying Google News RSS")
+            try:
+                articles = fetch_google_news(query, start, now)
+                source_name = "Google News RSS"
+            except Exception as fallback_exc:
+                print(f"Warning: {section} RSS fallback failed: {fallback_exc}")
+                articles = []
+                source_name = "No source available"
+        print(f"{section}: fetched {len(articles)} via {source_name}")
         ranked = []
         section_urls = set()
         for article in articles:
@@ -116,12 +162,12 @@ def main():
             domain = str(article.get("domain") or urllib.parse.urlparse(url).netloc).replace("www.", "")
             item = {
                 "title": title,
-                "description": "",
+                "description": re.sub(r"<[^>]+>", " ", html.unescape(str(article.get("description") or ""))).strip()[:500],
                 "source": domain,
                 "domain": domain,
                 "url": url,
                 "published": published.isoformat() if published else None,
-                "indexed_by": "GDELT DOC API"
+                "indexed_by": source_name
             }
             if section == "Politics":
                 item["party"], item["event_type"] = party_label(title)
@@ -129,12 +175,12 @@ def main():
             ranked.append((score(article, now), published or datetime.min.replace(tzinfo=timezone.utc), item))
         ranked.sort(key=lambda entry: (entry[0], entry[1]), reverse=True)
         collected[section] = [entry[2] for entry in ranked[:MAX_PER_SECTION]]
-        # GDELT asks clients to avoid excessively rapid repeated requests.
-        time.sleep(5)
+        # Avoid rapid repeated requests to the upstream source.
+        time.sleep(3)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "updated_at": now.isoformat(),
-        "source": "GDELT DOC API",
+        "source": "GDELT DOC API with Google News RSS fallback",
         "window_hours": WINDOW_HOURS,
         "max_per_section": MAX_PER_SECTION,
         "sections": collected
