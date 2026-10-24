@@ -23,7 +23,7 @@ The site is static HTML/CSS/JavaScript. A straightforward option is Cloudflare P
 1. Open the Cloudflare dashboard and go to **Workers & Pages**.
 2. Choose **Create application → Pages → Connect to Git**.
 3. Authorize GitHub and select `PGN28/the-newsroom` (the repository can remain private).
-4. Use `main` as the production branch. Leave the build command empty and set the build output directory to `/` (the repository root).
+4. Use `main` as the production branch. Leave the build command empty and set the build output directory to `.` (the repository root).
 5. Deploy. Cloudflare will provide a `pages.dev` address and deploy later pushes automatically.
 
 The public site itself is accessible to visitors even when the source repository is private. Keep credentials and private information out of the repository.
