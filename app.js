@@ -31,8 +31,8 @@ function politicalLabel(story) {
 function makeSummary(story) {
   const description = (story.description || "").trim();
   if (description && description.length > 35 && !description.toLowerCase().includes("click here")) return description;
-  // Do not fabricate facts when the index contains only a headline.
-  return "The headline flags this development, but the news index does not provide a verified explanatory summary. Open the publisher’s report for the details and context.";
+  // The collector has no verified article summary, so be explicit rather than inventing context.
+  return "This report concerns: " + (story.title || "the development above") + ". The index does not include enough verified background or outcome to explain it reliably. Open the linked report before treating this as a CLAT current-affairs fact.";
 }
 function render() {
   $("#section-title").textContent = activeSection === "General Knowledge" ? "CLAT GK" : activeSection;
