@@ -1,6 +1,8 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-10-24T17:09:31.439085+00:00",
   "source": "GDELT DOC API",
+  "window_hours": 72,
+  "max_per_section": 12,
   "sections": {
     "India": [],
     "Kerala": [],
