@@ -94,7 +94,6 @@ def main():
     now = datetime.now(timezone.utc)
     start = now - timedelta(hours=WINDOW_HOURS)
     collected = {}
-    seen_urls = set()
     for section, query in QUERIES.items():
         try:
             articles = fetch(query, start, now)
@@ -113,7 +112,6 @@ def main():
             if key in section_urls:
                 continue
             section_urls.add(key)
-            seen_urls.add(key)
             published = parse_date(article.get("seendate"))
             domain = str(article.get("domain") or urllib.parse.urlparse(url).netloc).replace("www.", "")
             item = {
