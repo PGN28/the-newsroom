@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f2eb">
+  <meta name="description" content="A personal, concise news dashboard for India, Kerala, world affairs, law, politics and CLAT GK.">
+  <title>The Newsroom</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="wordmark" href="#" aria-label="The Newsroom home">THE NEWSROOM<span>.</span></a>
+      <p class="masthead-note">A quieter way to keep up.</p>
+    </div>
+    <nav id="navigation" class="navigation" aria-label="News sections">
+      <button class="nav-link active" data-section="India">India</button>
+      <button class="nav-link" data-section="Kerala">Kerala</button>
+      <button class="nav-link" data-section="World Affairs">World affairs</button>
+      <button class="nav-link" data-section="General Knowledge">CLAT GK</button>
+      <button class="nav-link" data-section="Law">Law</button>
+      <button class="nav-link" data-section="Politics">Politics</button>
+    </nav>
+  </header>
+  <main>
+    <section class="intro">
+      <div>
+        <p class="eyebrow">THE DAILY BRIEFING</p>
+        <h1 id="section-title">India</h1>
+        <p id="section-description" class="section-description">The stories worth knowing, without the endless scroll.</p>
+      </div>
+      <div class="intro-meta"><span id="story-count">Loading stories…</span><span id="updated-at"></span></div>
+    </section>
+    <div id="status" class="status" role="status">Loading the latest briefing…</div>
+    <section id="stories" class="story-grid" aria-live="polite"></section>
+    <footer class="footer">
+      <p>Headlines and links are provided for discovery. Read the original publisher for full context.</p>
+      <p>News data indexed by <a href="https://www.gdeltproject.org/" target="_blank" rel="noopener noreferrer">GDELT</a>. Publisher rights remain with their respective owners.</p>
+      <button id="refresh-button" class="refresh-button" type="button">Refresh stories</button>
+    </footer>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>
