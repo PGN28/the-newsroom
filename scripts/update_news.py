@@ -103,14 +103,16 @@ def main():
             articles = []
         print(f"{section}: fetched {len(articles)}")
         ranked = []
+        section_urls = set()
         for article in articles:
             title = clean_title(article.get("title"))
             url = str(article.get("url") or "").strip()
             if not title or not url.startswith(("https://", "http://")):
                 continue
             key = url.split("#", 1)[0]
-            if key in seen_urls:
+            if key in section_urls:
                 continue
+            section_urls.add(key)
             seen_urls.add(key)
             published = parse_date(article.get("seendate"))
             domain = str(article.get("domain") or urllib.parse.urlparse(url).netloc).replace("www.", "")
