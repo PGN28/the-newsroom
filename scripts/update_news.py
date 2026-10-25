@@ -26,7 +26,6 @@ QUERIES = {
     "India": '(India OR Indian government OR Supreme Court of India OR Parliament of India)',
     "Kerala": '(Kerala OR Thiruvananthapuram OR Kochi OR Kozhikode OR Malappuram)',
     "World Affairs": '(United Nations OR international relations OR foreign policy OR global economy OR war OR ceasefire OR summit)',
-    "General Knowledge": '(India current affairs OR Indian economy OR international summit OR election results OR government policy OR science discovery)',
     "Law": '(Supreme Court OR High Court OR court judgment OR legislation OR legal rights OR constitutional law OR India law)',
     "Politics": '("Bharatiya Janata Party" OR BJP OR "Indian National Congress" OR Congress OR "CPI(M)" OR "Communist Party of India" OR IUML OR "Aam Aadmi Party" OR "Cockroach Janta Party" OR "Cockroach Janata Party" OR CJP)'
 }
@@ -105,44 +104,15 @@ def parse_date(value):
     return None
 
 def party_label(title):
-    """
-    Return the party acting in the headline, event type, and an explicit label.
-    The first party mentioned is not necessarily the party doing the criticising.
-    """
+    """Return political party names explicitly mentioned in a headline."""
     text = clean_title(title)
-    aliases = [(party, alias) for party, names in PARTIES
-               for alias in sorted(names, key=len, reverse=True)]
-
-    def party_matches(fragment):
-        found = []
-        for party, alias in aliases:
-            match = re.search(r"(?<!\\w)" + re.escape(alias) + r"(?!\\w)", fragment, re.I)
-            if match:
-                found.append((match.start(), -len(alias), party, match.end()))
-        return sorted(found)
-
-    criticism_verbs = re.compile(
-        r"criticis\\w*|slams?|attacks?|alleges?|accuses?|condemns?|opposes?|"
-        r"hits out at|raps?|questions?|lashes out at|calls for|demands?|"
-        r"seeks (?:the )?(?:resignation|removal|probe|inquiry)|blames?",
-        re.I
-    )
-    for action in criticism_verbs.finditer(text):
-        before = text[max(0, action.start() - 100):action.start()]
-        actors = party_matches(before)
-        if actors:
-            party = actors[-1][2]
-            return party, "Criticism", f"{party} | Criticises"
-        after = text[action.end():action.end() + 100]
-        targets = party_matches(after)
-        if targets:
-            party = targets[0][2]
-            return party, "Criticism", f"Criticism of {party}"
-
-    mentions = party_matches(text)
-    party = mentions[0][2] if mentions else ""
-    event = "Achievement" if POSITIVE.search(text) else "Development"
-    return party, event, (f"{party} | {event}" if party else event)
+    found = []
+    for party, aliases in PARTIES:
+        for alias in sorted(aliases, key=len, reverse=True):
+            if re.search(r"(?<!\w)" + re.escape(alias) + r"(?!\w)", text, re.I):
+                found.append(party)
+                break
+    return found
 def score(article, now):
     title = clean_title(article.get("title"))
     published = parse_date(article.get("seendate"))
@@ -197,8 +167,9 @@ def main():
                 "indexed_by": source_name
             }
             if section == "Politics":
-                item["party"], item["event_type"], item["label"] = party_label(title)
-                item["parties"] = [p for p, _ in PARTIES]
+                item["parties_mentioned"] = party_label(title)
+                item["party"] = item["parties_mentioned"][0] if item["parties_mentioned"] else ""
+                item["label"] = " · ".join(item["parties_mentioned"])
             ranked.append((score(article, now), published or datetime.min.replace(tzinfo=timezone.utc), item))
         ranked.sort(key=lambda entry: (entry[0], entry[1]), reverse=True)
         collected[section] = [entry[2] for entry in ranked[:MAX_PER_SECTION]]
