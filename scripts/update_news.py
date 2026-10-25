@@ -105,17 +105,44 @@ def parse_date(value):
     return None
 
 def party_label(title):
-    for party, aliases in PARTIES:
-        if any(re.search(r"(?<!\w)" + re.escape(alias) + r"(?!\w)", title, re.I) for alias in aliases):
-            if NEGATIVE.search(title):
-                event = "Criticism"
-            elif POSITIVE.search(title):
-                event = "Achievement"
-            else:
-                event = "Development"
-            return party, event
-    return "", "Development"
+    """
+    Return the party acting in the headline, event type, and an explicit label.
+    The first party mentioned is not necessarily the party doing the criticising.
+    """
+    text = clean_title(title)
+    aliases = [(party, alias) for party, names in PARTIES
+               for alias in sorted(names, key=len, reverse=True)]
 
+    def party_matches(fragment):
+        found = []
+        for party, alias in aliases:
+            match = re.search(r"(?<!\\w)" + re.escape(alias) + r"(?!\\w)", fragment, re.I)
+            if match:
+                found.append((match.start(), -len(alias), party, match.end()))
+        return sorted(found)
+
+    criticism_verbs = re.compile(
+        r"criticis\\w*|slams?|attacks?|alleges?|accuses?|condemns?|opposes?|"
+        r"hits out at|raps?|questions?|lashes out at|calls for|demands?|"
+        r"seeks (?:the )?(?:resignation|removal|probe|inquiry)|blames?",
+        re.I
+    )
+    for action in criticism_verbs.finditer(text):
+        before = text[max(0, action.start() - 100):action.start()]
+        actors = party_matches(before)
+        if actors:
+            party = actors[-1][2]
+            return party, "Criticism", f"{party} | Criticises"
+        after = text[action.end():action.end() + 100]
+        targets = party_matches(after)
+        if targets:
+            party = targets[0][2]
+            return party, "Criticism", f"Criticism of {party}"
+
+    mentions = party_matches(text)
+    party = mentions[0][2] if mentions else ""
+    event = "Achievement" if POSITIVE.search(text) else "Development"
+    return party, event, (f"{party} | {event}" if party else event)
 def score(article, now):
     title = clean_title(article.get("title"))
     published = parse_date(article.get("seendate"))
@@ -170,7 +197,7 @@ def main():
                 "indexed_by": source_name
             }
             if section == "Politics":
-                item["party"], item["event_type"] = party_label(title)
+                item["party"], item["event_type"], item["label"] = party_label(title)
                 item["parties"] = [p for p, _ in PARTIES]
             ranked.append((score(article, now), published or datetime.min.replace(tzinfo=timezone.utc), item))
         ranked.sort(key=lambda entry: (entry[0], entry[1]), reverse=True)
