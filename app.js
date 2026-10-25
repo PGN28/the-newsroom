@@ -20,6 +20,7 @@ function escapeHTML(value) {
   return String(value ?? "").replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
 }
 function politicalLabel(story) {
+  if (story.label) return {text: story.label, type: story.event_type.toLowerCase()};
   if (story.party && story.event_type) return {text: story.party + " | " + story.event_type, type: story.event_type.toLowerCase()};
   const title = (story.title || "").toLowerCase();
   const party = (story.parties || []).find(name => title.includes(name.toLowerCase())) || "";
