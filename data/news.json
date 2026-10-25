@@ -334,35 +334,6 @@
         "indexed_by": "Google News RSS"
       }
     ],
-    "General Knowledge": [
-      {
-        "title": "Theyab bin Mohamed bin Zayed meets Prime Minister of India on sidelines of NDTV World Summit 2026 - مكتب أبوظبي الإعلامي",
-        "description": "Theyab bin Mohamed bin Zayed meets Prime Minister of India on sidelines of NDTV World Summit 2026    مكتب أبوظبي الإعلامي",
-        "source": "مكتب أبوظبي الإعلامي",
-        "domain": "مكتب أبوظبي الإعلامي",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFdLOWtMazZTanpJRTFpT1VxbVhrM1FVc2lrUHExazhSeTJaOGRkWHB6SS1kRkRGem1tRnMzb2d6Q1kzTkVnSExJQllNMzVHR1Q0QmVMNW01Z1dkVDJKR0pXZlhpajJBbmIxRUlmREg3QlUxdTJNTjEzZVNWVnlIb1B6QTFYNE42OEppeXAtZktQN05mWlU4N0pwXzNmblpNdEdNaThfMjJXWEpoSmJLamNQMml6Q09yd3AzeXJZeUJNbkg4Z1JLVEJFUXhwdE45OEgzbGx4Nll6aTJHMTQ1emNlSktXV3Yt?oc=5",
-        "published": "2026-10-23T15:49:26+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Theyab bin Mohamed bin Zayed leads UAE delegation at NDTV World Summit 2026 in New Delhi - مكتب أبوظبي الإعلامي",
-        "description": "Theyab bin Mohamed bin Zayed leads UAE delegation at NDTV World Summit 2026 in New Delhi    مكتب أبوظبي الإعلامي",
-        "source": "مكتب أبوظبي الإعلامي",
-        "domain": "مكتب أبوظبي الإعلامي",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS1IwVGU3TkJhdFg3RnJrc25PU0tTWVVEcjJSclpGX01WTWJINElHQUw0OWEzWl9odW1zZEtPR2FOb0lQUmJmOGZKUm5LR1Jla2VhRGRZNFU2eVhCTm0yZ2dDZmNIQVNOempVZlUtcXVzc25LUXI5amRvZ2tROXBDbkhxRnNUeG4zMnREVk5tUThOblFIWm9YY0ZEZ1hlejlEWTFuamlFR0lRcnFTMGlFMENLOUJCSDBLa0FFdUhwSHJHSHJ6cktlREhLcm9QRGhwSVp1UXhWSi1oWjlU?oc=5",
-        "published": "2026-10-23T10:13:28+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "BRICS - Britannica",
-        "description": "BRICS    Britannica",
-        "source": "Britannica",
-        "domain": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ta3BBNXVoR29QejM4ZEdCalRLY2pRZTk3NzdOVXNHZFhPQUgteUpTUVNCM0VLX0xkcXNKcWNzRTQ3eGptOTNZTjAtZ0U0STQ?oc=5",
-        "published": "2026-10-23T05:00:00+00:00",
-        "indexed_by": "Google News RSS"
-      }
-    ],
     "Law": [
       {
         "title": "Supreme Court Hears Appeals on Scheduled Caste Status of 'Lois' in Manipur. The Appeals Challenge the High Court's Common Judgment Regarding the Validity of Scheduled Caste Certificates Issued to Residents of Kakching Village Based on the Presiden - Lawtext",
@@ -483,7 +454,6 @@
         "published": "2026-10-25T04:42:28+00:00",
         "indexed_by": "Google News RSS",
         "party": "BJP",
-        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -493,7 +463,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "BJP | Criticises"
+        "label": "BJP",
+        "parties_mentioned": [
+          "BJP"
+        ]
       },
       {
         "title": "UP Congress alleges voter discrepancies were being corrected through Form-8 | India News - Hindustan Times",
@@ -504,7 +477,6 @@
         "published": "2026-10-25T04:18:38+00:00",
         "indexed_by": "Google News RSS",
         "party": "INC",
-        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -514,7 +486,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "INC | Criticises"
+        "label": "INC",
+        "parties_mentioned": [
+          "INC"
+        ]
       },
       {
         "title": "A CLOUD OVER THE SP-CONGRESS ALLIANCE - First India",
@@ -525,7 +500,6 @@
         "published": "2026-10-25T03:36:38+00:00",
         "indexed_by": "Google News RSS",
         "party": "INC",
-        "event_type": "Development",
         "parties": [
           "BJP",
           "INC",
@@ -535,7 +509,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "INC | Development"
+        "label": "INC",
+        "parties_mentioned": [
+          "INC"
+        ]
       },
       {
         "title": "‘No compensation can make up for loss’: CJP activist Abdul Hafeez lights candle for Chorebagan stampede victims - Telegraph India",
@@ -546,7 +523,6 @@
         "published": "2026-10-25T01:33:32+00:00",
         "indexed_by": "Google News RSS",
         "party": "CJP",
-        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -556,7 +532,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "CJP | Criticises"
+        "label": "CJP",
+        "parties_mentioned": [
+          "CJP"
+        ]
       },
       {
         "title": "Members of the Youth Congress stage a protest against Chief Election Commissioner Gyanesh Kumar over alleged irregularities in the SIR of electoral rolls, in Kolkata, on Saturday. (PTI) - The Shillong Times",
@@ -567,7 +546,6 @@
         "published": "2026-10-25T01:08:49+00:00",
         "indexed_by": "Google News RSS",
         "party": "INC",
-        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -577,7 +555,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "INC | Criticises"
+        "label": "INC",
+        "parties_mentioned": [
+          "INC"
+        ]
       },
       {
         "title": "Naseeruddin Shah slams BJP of vendetta against SRFTI students after ‘manipulative’ Bengal poll 'victory' - Telegraph India",
@@ -588,7 +569,6 @@
         "published": "2026-10-25T00:53:28+00:00",
         "indexed_by": "Google News RSS",
         "party": "BJP",
-        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -598,7 +578,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "Criticism of BJP"
+        "label": "BJP",
+        "parties_mentioned": [
+          "BJP"
+        ]
       },
       {
         "title": "Former minister Ismail R Marak joins BJP - The Shillong Times",
@@ -609,7 +592,6 @@
         "published": "2026-10-25T00:39:15+00:00",
         "indexed_by": "Google News RSS",
         "party": "BJP",
-        "event_type": "Development",
         "parties": [
           "BJP",
           "INC",
@@ -619,7 +601,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "BJP | Development"
+        "label": "BJP",
+        "parties_mentioned": [
+          "BJP"
+        ]
       },
       {
         "title": "Congress bid to boost Ramlila footfall, targets 50,000 for Rahul Gandhi’s ‘vote chori’ rally - Telegraph India",
@@ -630,7 +615,6 @@
         "published": "2026-10-24T23:10:01+00:00",
         "indexed_by": "Google News RSS",
         "party": "INC",
-        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -640,7 +624,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "INC | Criticises"
+        "label": "INC",
+        "parties_mentioned": [
+          "INC"
+        ]
       },
       {
         "title": "BJP riot salvo at vote-theft rally: Party invokes ‘Sikh sentiments’ to slam Rahul campaign - Telegraph India",
@@ -651,7 +638,6 @@
         "published": "2026-10-24T23:05:03+00:00",
         "indexed_by": "Google News RSS",
         "party": "BJP",
-        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -661,7 +647,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "BJP | Criticises"
+        "label": "BJP",
+        "parties_mentioned": [
+          "BJP"
+        ]
       },
       {
         "title": "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress - The Times of India",
@@ -672,7 +661,6 @@
         "published": "2026-10-24T20:19:00+00:00",
         "indexed_by": "Google News RSS",
         "party": "BJP",
-        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -682,7 +670,11 @@
           "AAP",
           "CPI"
         ],
-        "label": "BJP | Criticises"
+        "label": "BJP · INC",
+        "parties_mentioned": [
+          "BJP",
+          "INC"
+        ]
       },
       {
         "title": "AAP hits out at BJP, Sirsa over ‘false claims’ on stubble burning - The Times of India",
@@ -692,8 +684,7 @@
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkJodExEaWlVWVdDUU1MN212QUxjdWlYbmQ5dHlLNmFxeDBYQ2d1Mi1FY3hHN1o4Z1FLLTllUG10c1RWNHRHNUcwQUIxQ1hWb2ZPRmRQcEQ0bXlMMEV3LXhmYUIwRWt2NS1RZnVGWmF4Z1RhcjJXQlVyeHl2bXR1THMxRlo3RjBXaEpZYWJmYkdabHVIcVhfOHlpVGpJZ21MT0VJVFR1SGthdGctenljTGFRWE0tc29vcWhHelV4cmdnNlpEaVNqdDZFUDlLNHBFeFRGa2dVZ9IB3AFBVV95cUxPdnhhMXdINFl5TUJtRkNhZE1neGNXd3YtMEVTT2UteVliaFRZc2s3TGQtbGVQTl9hTUJrZXNjTTBGMG1MVkVqMURYeHc1bkc4UENsYUxtMEJyU3dXUFVvUzhhSDZaNjNTaktRdFRxY3dZUUswendhMHdObUZaRWhKOW5HWFZQT0lFeG90UmNmYXE0TEtNZ2VYSEVmQ3BWQ3pWQkV5NXBCUkd4REpQcEtBczV6N01XcGNVSjVNOFYzNXFCcGpKOGZ3RDZ3MkJJOVZwN053TDE5cGdsVHEy?oc=5",
         "published": "2026-10-24T18:34:00+00:00",
         "indexed_by": "Google News RSS",
-        "party": "AAP",
-        "event_type": "Criticism",
+        "party": "BJP",
         "parties": [
           "BJP",
           "INC",
@@ -703,7 +694,11 @@
           "AAP",
           "CPI"
         ],
-        "label": "AAP | Criticises"
+        "label": "BJP · AAP",
+        "parties_mentioned": [
+          "BJP",
+          "AAP"
+        ]
       },
       {
         "title": "Haryana Congress gears up for Nov 1 rally in Delhi, seeks CEC’s resignation - The Times of India",
@@ -714,7 +709,6 @@
         "published": "2026-10-24T18:22:00+00:00",
         "indexed_by": "Google News RSS",
         "party": "INC",
-        "event_type": "Development",
         "parties": [
           "BJP",
           "INC",
@@ -724,7 +718,10 @@
           "AAP",
           "CPI"
         ],
-        "label": "INC | Development"
+        "label": "INC",
+        "parties_mentioned": [
+          "INC"
+        ]
       }
     ]
   }
