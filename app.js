@@ -2,9 +2,8 @@ const SECTIONS = {
   "India": "National developments selected for relevance and significance.",
   "Kerala": "State news, public affairs and developments from Kerala.",
   "World Affairs": "International developments with wider political and economic significance.",
-  "General Knowledge": "Current affairs for CLAT GK, with a short plain-language explanation.",
   "Law": "Courts, legislation, legal institutions and significant judgments.",
-  "Politics": "Political developments, labelled by party and the nature of the event."
+  "Politics": "Political developments, labelled by the parties mentioned in each headline."
 };
 const $ = (selector) => document.querySelector(selector);
 let activeSection = "India";
@@ -20,23 +19,11 @@ function escapeHTML(value) {
   return String(value ?? "").replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
 }
 function politicalLabel(story) {
-  if (story.label) return {text: story.label, type: story.event_type.toLowerCase()};
-  if (story.party && story.event_type) return {text: story.party + " | " + story.event_type, type: story.event_type.toLowerCase()};
-  const title = (story.title || "").toLowerCase();
-  const party = (story.parties || []).find(name => title.includes(name.toLowerCase())) || "";
-  let type = "Development";
-  if (/criticis|slams|attacks|alleg|accus|condemn|opposes|hits out|questions/.test(title)) type = "Criticism";
-  else if (/wins|launches|passes|approves|announces|inaugurat|implements|records|secures|signs|achieves/.test(title)) type = "Achievement";
-  return {text: (party ? party + " | " : "") + type, type:type.toLowerCase()};
-}
-function makeSummary(story) {
-  const description = (story.description || "").trim();
-  if (description && description.length > 35 && !description.toLowerCase().includes("click here")) return description;
-  // The collector has no verified article summary, so be explicit rather than inventing context.
-  return "This report concerns: " + (story.title || "the development above") + ". The index does not include enough verified background or outcome to explain it reliably. Open the linked report before treating this as a CLAT current-affairs fact.";
+  const label = story.label || story.party || "";
+  return label ? {text: label, type: "party"} : null;
 }
 function render() {
-  $("#section-title").textContent = activeSection === "General Knowledge" ? "CLAT GK" : activeSection;
+  $("#section-title").textContent = activeSection;
   $("#section-description").textContent = SECTIONS[activeSection];
   const stories = (newsData?.sections?.[activeSection] || []).slice(0, 12);
   $("#story-count").textContent = stories.length + (stories.length === 1 ? " story" : " stories") + " · maximum 12";
@@ -51,11 +38,11 @@ function render() {
     const card = document.createElement("article");
     card.className = "story-card";
     const label = activeSection === "Politics" ? politicalLabel(story) : null;
-    const summary = activeSection === "General Knowledge" ? makeSummary(story) : (story.description || "");
+    const summary = story.description || "";
     card.innerHTML = `
       <div class="story-top"><span class="source">${escapeHTML(story.source || story.domain || "News source")}</span>${label ? '<span class="tag '+escapeHTML(label.type)+'">'+escapeHTML(label.text)+'</span>' : ""}</div>
       <h2>${escapeHTML(story.title || "Untitled story")}</h2>
-      ${summary ? '<p class="story-summary">'+(activeSection === "General Knowledge" ? '<strong>WHAT HAPPENED</strong>' : '')+escapeHTML(summary)+'</p>' : ""}
+      ${summary ? '<p class="story-summary">'+escapeHTML(summary)+'</p>' : ""}
       <div class="story-bottom"><span class="story-date">${escapeHTML(safeDate(story.published || story.seendate))}</span><a class="read-link" href="${escapeHTML(story.url || "#")}" target="_blank" rel="noopener noreferrer">Read report ↗</a></div>`;
     container.appendChild(card);
   }
