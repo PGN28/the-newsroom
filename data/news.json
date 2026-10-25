@@ -492,7 +492,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "BJP | Criticises"
       },
       {
         "title": "UP Congress alleges voter discrepancies were being corrected through Form-8 | India News - Hindustan Times",
@@ -512,7 +513,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "INC | Criticises"
       },
       {
         "title": "A CLOUD OVER THE SP-CONGRESS ALLIANCE - First India",
@@ -532,7 +534,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "INC | Development"
       },
       {
         "title": "‘No compensation can make up for loss’: CJP activist Abdul Hafeez lights candle for Chorebagan stampede victims - Telegraph India",
@@ -543,7 +546,7 @@
         "published": "2026-10-25T01:33:32+00:00",
         "indexed_by": "Google News RSS",
         "party": "CJP",
-        "event_type": "Development",
+        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -552,7 +555,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "CJP | Criticises"
       },
       {
         "title": "Members of the Youth Congress stage a protest against Chief Election Commissioner Gyanesh Kumar over alleged irregularities in the SIR of electoral rolls, in Kolkata, on Saturday. (PTI) - The Shillong Times",
@@ -572,7 +576,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "INC | Criticises"
       },
       {
         "title": "Naseeruddin Shah slams BJP of vendetta against SRFTI students after ‘manipulative’ Bengal poll 'victory' - Telegraph India",
@@ -592,7 +597,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "Criticism of BJP"
       },
       {
         "title": "Former minister Ismail R Marak joins BJP - The Shillong Times",
@@ -612,7 +618,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "BJP | Development"
       },
       {
         "title": "Congress bid to boost Ramlila footfall, targets 50,000 for Rahul Gandhi’s ‘vote chori’ rally - Telegraph India",
@@ -623,7 +630,7 @@
         "published": "2026-10-24T23:10:01+00:00",
         "indexed_by": "Google News RSS",
         "party": "INC",
-        "event_type": "Development",
+        "event_type": "Criticism",
         "parties": [
           "BJP",
           "INC",
@@ -632,7 +639,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "INC | Criticises"
       },
       {
         "title": "BJP riot salvo at vote-theft rally: Party invokes ‘Sikh sentiments’ to slam Rahul campaign - Telegraph India",
@@ -641,46 +649,6 @@
         "domain": "Telegraph India",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeVZJX1EtUVBSLUZKX1N3STZiVVh1NG5kUXA5WjRLMTJQSm8wSUkyWm1LOUttQlFXQ2xnbGt4SmIydUJlVG9tWHV4OVA1V2UzLWU3MHFaVWFha3pNS0p5RHQwaHJXc051eUZmVXZkSkx0ejhMWGQ2YTdpZUwzQ3F4bzg5Z096VVdEYnRjQzJ1b282N3JxNUtyTkVuM0d4T19wT3B3YncxbnVwblRBNEp0bi0zVUhTZ2xGMGxRVE84clVaaE90c1VIZkMycTc5RlZRcGpUc3RiS3d4aW42UVpBY2FiQdIB6AFBVV95cUxQU3UxV1NQUEFJMzZxeXlOYWJ5VU4yVl95XzhvdUVYSHZEVURVeUZJUVJFcktuMV9la3ZCa0RCal9IMnljTFFhYTdQM3B0SG9CUUN0TEllbUstcHVpSnRTNkFfY1N5bzBuTGhKUFNoeHVkbWIwckFhVmVsSHdSNnRnckxmX2s3SjljUW5heTVhVG9kXzB5dWNEYU9UNEI3N193ZUxRajluTkNlajJsTDIzZk1kRVhZUUtEbExVNXhrLVZzbzhwUVZkTjUybmVaRmxuYkhDUGxtbnFEYmJjbVFrZ1hvcFA2UEx3?oc=5",
         "published": "2026-10-24T23:05:03+00:00",
-        "indexed_by": "Google News RSS",
-        "party": "BJP",
-        "event_type": "Development",
-        "parties": [
-          "BJP",
-          "INC",
-          "CPI(M)",
-          "CJP",
-          "IUML",
-          "AAP",
-          "CPI"
-        ]
-      },
-      {
-        "title": "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress - The Times of India",
-        "description": "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress    The Times of India",
-        "source": "The Times of India",
-        "domain": "The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaXA0RU5xd2pzNV9CR2wwWkc4ZERvNWRjMS1lYVhPRXpIUmNTd3VRdHNJbFl5T1RWeF9BVlVpZk5kbHhCeUFjcGdsdjhnMEU5LUFEb2pnMTZ2QzNYei0zSFJmUkxJVURtc0YwQW11bTZ6aHM3d1BXd3UyRkVJMlQtbEZ4RnZXQzl6RWVjU1NienJmTFA4UXVqYjFIQ0pDcjdHd2t3dVdMQllYVjFGRnFGNlM5bFcxbHhXeURGYzJ0enQ1M21yOWo3cU1MTGlnTE1iazFlMHRycDZQRW84RmdoNkpn0gHnAUFVX3lxTE93TVBOWlZTX1c5eTNlYS1jMjFUR1RuRms4cjJuNG5fbHNQRXZTQTRGX0UtRWRXclBmclFSMjRobTFOMGlvRU8yWlgwSlRoLVdBUjltRlFTSUJMdXluTUMzalhyc3dBY1ExREowamhoamY5MTRfVThtSHotYXQtR2NkNVZwMERCMERuZW9wNFZUQmVRSk5YUGxsODVVTWMyWXdxMV81SmFqX0ZRTERPNkUyaUZiaGdZdG5CTWgteUdfZ20xOU11Slk0SXNlaktybDB3Yl9nTy0zSktrOEZJcHJWMEloQnhEZw?oc=5",
-        "published": "2026-10-24T20:19:00+00:00",
-        "indexed_by": "Google News RSS",
-        "party": "BJP",
-        "event_type": "Development",
-        "parties": [
-          "BJP",
-          "INC",
-          "CPI(M)",
-          "CJP",
-          "IUML",
-          "AAP",
-          "CPI"
-        ]
-      },
-      {
-        "title": "AAP hits out at BJP, Sirsa over ‘false claims’ on stubble burning - The Times of India",
-        "description": "AAP hits out at BJP, Sirsa over ‘false claims’ on stubble burning    The Times of India",
-        "source": "The Times of India",
-        "domain": "The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkJodExEaWlVWVdDUU1MN212QUxjdWlYbmQ5dHlLNmFxeDBYQ2d1Mi1FY3hHN1o4Z1FLLTllUG10c1RWNHRHNUcwQUIxQ1hWb2ZPRmRQcEQ0bXlMMEV3LXhmYUIwRWt2NS1RZnVGWmF4Z1RhcjJXQlVyeHl2bXR1THMxRlo3RjBXaEpZYWJmYkdabHVIcVhfOHlpVGpJZ21MT0VJVFR1SGthdGctenljTGFRWE0tc29vcWhHelV4cmdnNlpEaVNqdDZFUDlLNHBFeFRGa2dVZ9IB3AFBVV95cUxPdnhhMXdINFl5TUJtRkNhZE1neGNXd3YtMEVTT2UteVliaFRZc2s3TGQtbGVQTl9hTUJrZXNjTTBGMG1MVkVqMURYeHc1bkc4UENsYUxtMEJyU3dXUFVvUzhhSDZaNjNTaktRdFRxY3dZUUswendhMHdObUZaRWhKOW5HWFZQT0lFeG90UmNmYXE0TEtNZ2VYSEVmQ3BWQ3pWQkV5NXBCUkd4REpQcEtBczV6N01XcGNVSjVNOFYzNXFCcGpKOGZ3RDZ3MkJJOVZwN053TDE5cGdsVHEy?oc=5",
-        "published": "2026-10-24T18:34:00+00:00",
         "indexed_by": "Google News RSS",
         "party": "BJP",
         "event_type": "Criticism",
@@ -692,7 +660,50 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "BJP | Criticises"
+      },
+      {
+        "title": "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress - The Times of India",
+        "description": "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaXA0RU5xd2pzNV9CR2wwWkc4ZERvNWRjMS1lYVhPRXpIUmNTd3VRdHNJbFl5T1RWeF9BVlVpZk5kbHhCeUFjcGdsdjhnMEU5LUFEb2pnMTZ2QzNYei0zSFJmUkxJVURtc0YwQW11bTZ6aHM3d1BXd3UyRkVJMlQtbEZ4RnZXQzl6RWVjU1NienJmTFA4UXVqYjFIQ0pDcjdHd2t3dVdMQllYVjFGRnFGNlM5bFcxbHhXeURGYzJ0enQ1M21yOWo3cU1MTGlnTE1iazFlMHRycDZQRW84RmdoNkpn0gHnAUFVX3lxTE93TVBOWlZTX1c5eTNlYS1jMjFUR1RuRms4cjJuNG5fbHNQRXZTQTRGX0UtRWRXclBmclFSMjRobTFOMGlvRU8yWlgwSlRoLVdBUjltRlFTSUJMdXluTUMzalhyc3dBY1ExREowamhoamY5MTRfVThtSHotYXQtR2NkNVZwMERCMERuZW9wNFZUQmVRSk5YUGxsODVVTWMyWXdxMV81SmFqX0ZRTERPNkUyaUZiaGdZdG5CTWgteUdfZ20xOU11Slk0SXNlaktybDB3Yl9nTy0zSktrOEZJcHJWMEloQnhEZw?oc=5",
+        "published": "2026-10-24T20:19:00+00:00",
+        "indexed_by": "Google News RSS",
+        "party": "BJP",
+        "event_type": "Criticism",
+        "parties": [
+          "BJP",
+          "INC",
+          "CPI(M)",
+          "CJP",
+          "IUML",
+          "AAP",
+          "CPI"
+        ],
+        "label": "BJP | Criticises"
+      },
+      {
+        "title": "AAP hits out at BJP, Sirsa over ‘false claims’ on stubble burning - The Times of India",
+        "description": "AAP hits out at BJP, Sirsa over ‘false claims’ on stubble burning    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkJodExEaWlVWVdDUU1MN212QUxjdWlYbmQ5dHlLNmFxeDBYQ2d1Mi1FY3hHN1o4Z1FLLTllUG10c1RWNHRHNUcwQUIxQ1hWb2ZPRmRQcEQ0bXlMMEV3LXhmYUIwRWt2NS1RZnVGWmF4Z1RhcjJXQlVyeHl2bXR1THMxRlo3RjBXaEpZYWJmYkdabHVIcVhfOHlpVGpJZ21MT0VJVFR1SGthdGctenljTGFRWE0tc29vcWhHelV4cmdnNlpEaVNqdDZFUDlLNHBFeFRGa2dVZ9IB3AFBVV95cUxPdnhhMXdINFl5TUJtRkNhZE1neGNXd3YtMEVTT2UteVliaFRZc2s3TGQtbGVQTl9hTUJrZXNjTTBGMG1MVkVqMURYeHc1bkc4UENsYUxtMEJyU3dXUFVvUzhhSDZaNjNTaktRdFRxY3dZUUswendhMHdObUZaRWhKOW5HWFZQT0lFeG90UmNmYXE0TEtNZ2VYSEVmQ3BWQ3pWQkV5NXBCUkd4REpQcEtBczV6N01XcGNVSjVNOFYzNXFCcGpKOGZ3RDZ3MkJJOVZwN053TDE5cGdsVHEy?oc=5",
+        "published": "2026-10-24T18:34:00+00:00",
+        "indexed_by": "Google News RSS",
+        "party": "AAP",
+        "event_type": "Criticism",
+        "parties": [
+          "BJP",
+          "INC",
+          "CPI(M)",
+          "CJP",
+          "IUML",
+          "AAP",
+          "CPI"
+        ],
+        "label": "AAP | Criticises"
       },
       {
         "title": "Haryana Congress gears up for Nov 1 rally in Delhi, seeks CEC’s resignation - The Times of India",
@@ -712,7 +723,8 @@
           "IUML",
           "AAP",
           "CPI"
-        ]
+        ],
+        "label": "INC | Development"
       }
     ]
   }
