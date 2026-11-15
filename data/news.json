@@ -1,10 +1,73 @@
 {
-  "updated_at": "2026-11-15T06:37:29.818654+00:00",
+  "updated_at": "2026-11-15T15:40:36.778536+00:00",
   "source": "GDELT DOC API with Google News RSS fallback",
   "window_hours": 72,
   "max_per_section": 12,
   "sections": {
     "India": [
+      {
+        "title": "EC assures SC no prosecution for voters reapplying through Form 6 after SIR draft roll deletions - The New Indian Express",
+        "description": "EC assures SC no prosecution for voters reapplying through Form 6 after SIR draft roll deletions    The New Indian Express",
+        "source": "The New Indian Express",
+        "domain": "The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFpxSnd1TmtOMUl5LTBTS2tDMDkwXzVnYm1ZdkQxcWNzdFg2SFg1N3lBS19QVEdiXzFRbmR0WHYwRUxscmc2bWFtcmxtYjBTTDdnbTk4SUExSXE1RFNFQjhsY1Y3ZWRlc0R3bnAtWGZHNExaWml5QmZoSk94ZFFrTE14bEJQcklNbUFsTUUzNGNSeHFBYUgzRWxackgxdllpZm1ac1NJdlAtcHZFVlMzcHFlMkNWbGFHa3ZTc2VlQVg2ck84UFBXZmRWSkFPLXoyWjhZSWRmcXp2UWd2ZFVzMNIB7gFBVV95cUxNdVN1b0JWZWFPMU9TUlFIOW8yTDZ2R1RRQUZQdWdPNWZJcGxoMHBQdjlfcTN6WHhydFo1eE12dlVVRTBnVkVjUDlQR2NmaWRQT0lJUjFGRVZVVTFPUTB0MlhlSTN1RDhwNERwc0VISjQ0US1CRnhsdDF1bHhwcFdqaXAyekhsNDdMYUsxR3ZkdEhJbjJMLWhWeUxHQTFmam5FRzQ3RHN4WUxZc0JqMXc0S2xVaXlVMTlEYldmNFJYb1QxREZWQURxRk1BNFJSRmxjcWp6T0ZiWlRMUWlIcDdKVERuQjlIMkNsdjZsYWdB?oc=5",
+        "published": "2026-11-15T15:33:02+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "India's govt health spending triples in a decade as household burden falls: Survey - The Business Standard",
+        "description": "India's govt health spending triples in a decade as household burden falls: Survey    The Business Standard",
+        "source": "The Business Standard",
+        "domain": "The Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeElRTG9wMmowS191Y2d2c2VwSUJ0X2hvbGo5MFcwS2s5bTZUbVF3SW43XzFpdFZpRFZka21fZWxIa1ZWdVo5RGkxOUJXOThiZTNqa0UwOElXXzNmN1dPU3RrNVJ5TnRRTElJeGpJbXhNd0dpampTVHJZZ29oR2Q3U2xIYks5dmNQNzZyNHpYa0Ewc1ZVSThYaENVY1FQdEt2TEN3YW1tSUJrNUNCSUVYWEpGMFc5czBoX2pCMG53?oc=5",
+        "published": "2026-11-15T12:59:04+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Naga Customary Law and Article 371A: Supreme Court's Landmark Ruling on Ancestral Land Rights - Legal Service India",
+        "description": "Naga Customary Law and Article 371A: Supreme Court's Landmark Ruling on Ancestral Land Rights    Legal Service India",
+        "source": "Legal Service India",
+        "domain": "Legal Service India",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLW82N2RPMlR2MjZudnpfdGtvMlk3T28xX01OUHRvYTVMYW5IQXZ0dHNfX0xHYVhZcjhsNXRpcEg5V09aZGl5ZjZybE5xNm5HVExuTWNudlp1OWUtSmplSWRzZm9DV2NqSjV6aDdTcjhfOEQwSVBRWEVlUmNYVlJzLUhlaGp1UkpJdnRBM1gzSXJUZW9pOTBScndFNA?oc=5",
+        "published": "2026-11-15T12:00:52+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Reforming India’s Tribunal System - www.pib.gov.in",
+        "description": "Reforming India’s Tribunal System    www.pib.gov.in",
+        "source": "pib.gov.in",
+        "domain": "pib.gov.in",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGRDBpRXB6S3Z0aWhWbFVlYmtZRFR6LThISmk1ZC01Mk1BcTIyNXhNVVJ6X2ZTQWR3MmtLQmU2Y0pzODY5OHBrSVp2Mk5NX3FnS1Y3OFpvR3Bfem5IZ1A2RGpWRkRUM0QtMVlYcVNxZnVTVFVSZXRr?oc=5",
+        "published": "2026-11-15T11:04:26+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Why a Supreme Court order may let Maharashtra’s women prisoners live with their children - The Indian Express",
+        "description": "Why a Supreme Court order may let Maharashtra’s women prisoners live with their children    The Indian Express",
+        "source": "The Indian Express",
+        "domain": "The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc3pCQzNJS3lNMkNleENybW5DM01FUUlvUWtoSmtMX0xCUUdqVE4zMWxPbVcwaXloOTB3MUhpbWFfLS0xbElEV3lxUUJpaEVPLVhjLWh6c1AydUw5TzRMQ2FsUXpwa3RHaXFtOEFfT25HUTlBVmxTd3MxNDFXcmhkYzMtSU83QWgtbWZwSHJIczFCeGswbll2UlJ5bXlDWUF0UTNMWXFxQmQ3RE9wRUZSYTA4bG5fV3o2eEVpdXhB0gHEAUFVX3lxTE4yREpZSFhuS3hoTWR4VUwyRVhMdVVTQmJTcXNJc3VVMHg0V1NWZDF5OHBqeEJfd3VoTUJwX0xmbXJ0eU42THNCcHlJUzJXeURHQ3AwSmVyRjFlZEZHVUZUZDdtZHZiNWs1WC1OZkxreWFzcFdmVUg5YnNmdC1BaFFfc04yRFBXbk02R2s5T1RCRWtucGNOWkZvcTlubEUyRXNkT2tBRHdkTkRwT1NCM3NuX3NUdDMwQU5sQ3JzQTZvVzEzVEc?oc=5",
+        "published": "2026-11-15T08:55:07+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Oposa v. Factoran: Landmark Philippine Supreme Court Judgment on Future Generations - Legal Service India",
+        "description": "Oposa v. Factoran: Landmark Philippine Supreme Court Judgment on Future Generations    Legal Service India",
+        "source": "Legal Service India",
+        "domain": "Legal Service India",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2xXUGxzZXhzeF84ZVc3c0dBRHFkVkR3dThNRmRhYzVGMk9jdmpEU1BjRFRsUVZlVXlWUlJtaHJ2SWhMb25zUWFmYk95bHFERzJUcXdoU3NDa1M2akE1OE5UYnd4ZnVnWlJlanlaSWx5Nl9xZzNuXzFGT1FhaWxZZjYwTE5wRE93NmllOWZ6aXBlWktPaHo4?oc=5",
+        "published": "2026-11-15T08:18:33+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Excluded voters in SIR states can submit enumeration form, ECI tells Supreme Court - The Indian Express",
+        "description": "Excluded voters in SIR states can submit enumeration form, ECI tells Supreme Court    The Indian Express",
+        "source": "The Indian Express",
+        "domain": "The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYXp5TUIyVlVMbm1UdkNDMEo2Q3JxZVlIWkIwb1I3eE5FS0VPcTFpWW04TVJ0TVJvTG9JWG9rMmtCd0xfbjRkaU9EbEhpVHozc2NpUG02Y3pkbXRyTXB4Q3ZsLV9KVDBVbHYtXzZEM1lGaHMtdWwyclZfdXJGTUdnRnBzZUZTNXk3Tlc0SmNWUUgtdU9Za0R0YldYNk0yQVB3ZkJlQWpuT1JPQ1l4VjhidUNsaE9sVkZBYmYtLU5LaExOM3p2WmZ1WVdR0gHQAUFVX3lxTFB1Zl9nQnRMTUFwZzZQelpQLVJkRVdqMUlzeXFiN29LYWUwUjRwT0VCZ0lLVnliQ2FkT09rX0JrM2h6Ti1uQkJmZ0V2ZVJmeUlVSlJqQlI3d2VRMndtUXRfSm1sQW5zR2Q3QXhYWWlpSElYbjdZQ0F1dmtQYnZTX2RGYjZUb2tsMFFZN0Z5MndFS2N0RXVCTXFRRmtZSXRrTlVYaGJvN3R0SzNjQWE5SVJROURwX2RoLW9lNFV6M2FwRmJncmpxRXNkYVpQdDV1V0Y?oc=5",
+        "published": "2026-11-15T07:51:18+00:00",
+        "indexed_by": "Google News RSS"
+      },
       {
         "title": "OBC Creamy Layer Rules: Supreme Court says \"Parents' salary alone cannot decide Non-Creamy Layer status\" - Education Times",
         "description": "OBC Creamy Layer Rules: Supreme Court says \"Parents' salary alone cannot decide Non-Creamy Layer status\"    Education Times",
@@ -15,12 +78,12 @@
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "Sri Lanka Supreme Court rules almost all provisions of SLC reform bill as constitutional - The Tribune",
-        "description": "Sri Lanka Supreme Court rules almost all provisions of SLC reform bill as constitutional    The Tribune",
-        "source": "The Tribune",
-        "domain": "The Tribune",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORE14eHRSbmNiNlJFei1aeFhQaHRfV1pKLTlxSFdfb2IyUUx4LVdoYURXUUdfb1JMTmJ5NG9KWVJ0NG52YjRpTmxvM1gwTjFhdHRuVXpjSHR0bm4xcGdvbnVHSjF3dDVneXo1WUJPYXdkVmg0YVAxb2N0TEhfb3g1SEVUaF9vMWd6TU9JTXlTQ0JFaVJTVlkzTTkxLU0zSlpfWGhIN2hqaUFyY0oxR1BncGo0dUpXRTE3MjZSUXI5SklVVUZEZUtkOVFB0gHOAUFVX3lxTFBjWW9VSlpRS3hNT0ppYmlwejE5QkNrXzFpelo5c0pKT3VReGhqOENBc3hIX0hLUFRjYUI3SGJ3d1NIdXNIN1VHNC1OeG55LXRxV2RTb2s4a2NTVVhDUEtLZXFZbTZnb1g3WU82REJLSGgxWVVacGYyQ2o2RmRtM2ZBUVN0TG1yRDlwMHE4a21BWkNJWDJaeTUwUW9rNzdqN256LU4tRDVfUmZ2S0FSZHp1VEdEeGd0dTZCRTRDYllyME9LVGtqdWdVeWpkVWp3?oc=5",
-        "published": "2026-11-15T05:22:19+00:00",
+        "title": "No prosecution for eligible voters reapplying through Form 6 after SIR deletions: EC to SC - India TV News",
+        "description": "No prosecution for eligible voters reapplying through Form 6 after SIR deletions: EC to SC    India TV News",
+        "source": "India TV News",
+        "domain": "India TV News",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYXpwYXMwVEtUOUtuMEZySm5XY2V0RUJpenhtcExWNDdkUl9mdHIwTjZpN1pvWEI5ZW5VUi1zTHM0THhjZ1dkMFVjVnlCTWpwQVN4RzVmQzJQMG05WlQzUzNYcGZiQUplQlVhdTB6RzhiRGMtOGR3RGJmRk1oOXl1ZnVBNXNFbnd0LWZkTnVKenZhelUtLTBmNzYwTkRJajYzbWRRNmMyanZhamZWOC1XOWhzS0dLd3lzQ1BJdHB5RGctWXNESUVoMEpyQjhWNFpITUJ1b0hDLURxajZKMldXdG0tdGFVWEtuaUJ2TllNaEhlcy1J0gH6AUFVX3lxTFBQd3duQ0Z1TU56WDNRZ3puQVZDalB1ZXFIZm9HYlRPTmlZYS1iQl9hQkhKb2FNUGVMMkhjSXozbmo1RUtFeE9lbTlEWmJKaVJqd3RnOUNHbXlDTGRuNXRxVUZXSW9kQjVjTXEyamZoN0lsemlqMjB1ZERKQk5FM0dkRHlCMUt2ZUxqYjdIYXRldjVvRnhPVFY2cmJFTTJ4eXB1OFRlUjEtTEowdTZoS0pyRWE0TlZSVWpBNWVLdEdnV1BQVVN2a1lmVUluUWxjNVhvNjltQVBBdGQ3eDh2blBBMVRJMkYyd1gtSGpkQVM5WHhOM0F3SmhKUWc?oc=5",
+        "published": "2026-11-15T05:13:09+00:00",
         "indexed_by": "Google News RSS"
       },
       {
@@ -49,198 +112,135 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHloUEprYkd0N3djd2Nwb1JTUnVPMDFfemR6SmpkT0pyc09HMlZ4NFlSUkdGMkJ5Vjk1ZElyM3MxbXE0QndFUXpqaDZBV05uQmljRmVCWjBwTEpoTnhNcVM4WkdUY2d0WDBsNmk4UUFDeERVMnl2cEtwR1hTUEJsb2ZlVUROS3NLbGtlcHozcHU0ZzdWOVNRM1dxdFRKQzdGamR0cjkyZ1BNeUlCNk1GNmdGaXRfcENMNl9VcnZ2dU_SAc4BQVVfeXFMTkFxb3BHaFZMTm9ieG1sZ0JoRzBxM0RGNEJnVTBDN2dHZGxyWDVFNDJQd2l0RWtXUXVlSC1LMS1BRWJzVTdPNmtBOUFENkVJOVB1OWRMLXBrMWloYV84SGVycTFjNVZnWFlJTloyNTBBb3liNTViMmlfampia19mTzEwSVV1dklLS1ozODZ5YWNWRjV4ODc4NFRmWDJwVzlXRll3RGZySURjZ2VMbV80VENMazNQZDNhcXM2SDJkR1ZtcGN6NXlVZVM2LVVaR0E?oc=5",
         "published": "2026-11-15T02:24:44+00:00",
         "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Another ‘encounter’ in Assam, why a case in Supreme Court remains stuck - The Indian Express",
-        "description": "Another ‘encounter’ in Assam, why a case in Supreme Court remains stuck    The Indian Express",
-        "source": "The Indian Express",
-        "domain": "The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJYcEN2UldNRnNlVHpzaFdwaXlTWldPdGxjTmlWSmRTZFhsVEplY0hiVWxYNmRWb2xTdjI0NHhGUU5BaTc2ZE91THhHWWJERzBQUFhORGUyTUVuazQ3WFM3a0Z6WjZzWVd3NXdISHA2UjR4M01EZnNKVzl5SzI3bUY3TTBkeTY2X2FSMGFZMHV3cm5veWo2VFlnQ1hxQjJjR3UyaFFhRU1tRUpZeTQxaE1JVjhlZEd1b1HSAcABQVVfeXFMUHgzbHpmUUc1VHF3US0zLXI0R0o1UXp6MHd6ZGFpOUFrSGE3UEwxaVhkQW9vckdDTTU3UFNuWm5VQ3ZTLXExQi1PR3VCMTI2ak9YaldoRGlxdjRua1FNVU9zQ1EwdmhWdmF5NUl1dGFOVVNiVzN2SWVqbi03Qm1mTTlmWmowTkhkWmJLaHVHRW1xZC1IQ2lLWlhVZGF3aVJWbTFZMkVsc2RQUkxhQzJsZjdOZGU5LWZWVmVlZEdNWi1C?oc=5",
-        "published": "2026-11-15T01:30:38+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Legalised violation? India's marital rape exception in modern constitutional discourse - Deccan Herald",
-        "description": "Legalised violation? India's marital rape exception in modern constitutional discourse    Deccan Herald",
-        "source": "Deccan Herald",
-        "domain": "Deccan Herald",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcmJMSE8ya25WOGpQSjRDMmNtcWMyeE0yTzFVRUpxc05tbUdBbFZ1elZNQ09ZNDMzUUlZMlptM2o0SHpqbHFVSTdHYlAzbmNJQjVxVFhSMkFjZ25tRXhVU3IwRllDc3JRS1VtaF8tQWg1ZVhEOHBJeXZZSk9wa25SX3NTWjVhd3FfMUE2UnVhanZSeWJ5Wk1OcWJUZi03eUFMOHBUX3hrUnpYUDJBMXV1YWwzYlpJWm41UXRJbmpuM0hPRTgwbndWclVlQVdEb1VVdGsw0gHgAUFVX3lxTE5ObXc0d2RPeGxtRFU4SUdXSkFQcWdWbkhfOTZYQmRkT3dNUUtONkNYeVlRNmhTTV9jb2kwRlJUbFcwQmgyV3JURjQ2ZVRZRzg5UzFoVFIxUVpIa0U1OGRFMmxyNzFKQm5rMDB4ajMtcHZDZmlqZlhZN2hWWkY4dHVnWTR3V3otNDNRZjdwcEZpb09XQU8xc2xjV09tY2ppb2pCQ1VDcU5TZEFTb21HNzJIaTlOU3B3SVdUSFdVV0dsc3RLc2lUS1ZCb0hHQXV1RWZ6WVBZMm4xU1BiMDVxVkdN?oc=5",
-        "published": "2026-11-15T00:30:00+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "EC assures SC no prosecution for voters reapplying through Form 6 after SIR deletions - The New Indian Express",
-        "description": "EC assures SC no prosecution for voters reapplying through Form 6 after SIR deletions    The New Indian Express",
-        "source": "The New Indian Express",
-        "domain": "The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSUd0d0F2My05RzlJRnhVamlXREh1VUlmM1M2SURfOTl6Z1JpNWRxbHp2WUt6Y2FjRHJraFpEM0lGMjV4THkxbU4yWWE0SG43czBkOHpvZm1EMlN3YVluOE1Mb0lIQkdEOXBodmIza09sRmxXQk1EOG1IcjB5VmJhWnl1bG8yaHItSEwwV3Zzcm1fdjYtcVZtX3ZSVDVaRGFJVFI2TjJaR0U2bnZGU2NVbFZrRW9kOC1jUHRfVkZRR1E1cXNwVG56TjBKWmpDb3ZPSVHSAd8BQVVfeXFMT2MxbXI1alREd3RIcldST2tfWjlpRUlNZF9GNjUyTFBQaTBqVzNxVDRTZkJGNnB2NXBIZDhQN3phdGZZZ3FILUxXMFBJWEc3QlNPaDYySzZBWFR3cHhqVnBIcjJBMlowOURMdnpJVlY1akVPNTNicUFzcVI0dTdJdUFWN0xZT0hhZFlqVzY0Mjdmb29ILTJBa25ocXh0aUF4cmdWbFBQdmwtTFRQZVZSYjJ6bVNTQ3F1c2x0b1BqTjVrLU9JSzNOeU9zZjZOUDY5MktPaC1jaEtyeGpuRGQxQQ?oc=5",
-        "published": "2026-11-14T18:14:40+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "CJI Surya Kant’s Brazil visit strengthens India-Brazil judicial cooperation - India Legal",
-        "description": "CJI Surya Kant’s Brazil visit strengthens India-Brazil judicial cooperation    India Legal",
-        "source": "India Legal",
-        "domain": "India Legal",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWxPRkJOMGhhU0pILTJEVm4tM0UyYmZyZDRxdmFfNEFTUk5WaXo4QWZoSDdTNDQ5ZW5jQ0VhWmFFLWFDN3NWSFJkX2Z6NzJyeUpvTnl1bU0yVVNPc3VCMVNsTmNuSVhvLUdiQzJ1dnRFcUpfM2hsWDQwZ3BKdEhjNVNEMldIMzVsN1Jycmx6bnNFM1N3b1JzWmY0LU8tZUZ3SmthaHZMaDRvN09MZGVkTk5fbVFMVUlzWGt2S2Z6OURSdlA0SlE?oc=5",
-        "published": "2026-11-14T17:51:05+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "CJI Surya Kant holds talks in Brazil on AI in judiciary, BRICS arbitration, and organised crime during Supreme Court delegation visit - The Tribune",
-        "description": "CJI Surya Kant holds talks in Brazil on AI in judiciary, BRICS arbitration, and organised crime during Supreme Court delegation visit    The Tribune",
-        "source": "The Tribune",
-        "domain": "The Tribune",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUy1kUGNUTmhTU0pSOEJuMEVLd2cyNzRHbTJUVDhqMGVxeThvc3hUc2RhX2lJa1hMeWMzcW5EU2tPOWI5Rml3Zk5MTGF3d0hHRDlzZ0RyR1Z4MUpoallmRkk1cWNpTWotbnVaRExzbDVURjVYcUZKM2lzWEwzbVNRODlaWS1BSVI5bjZvOFFnTU1Ua3dUN2t2dm9sYzdkOG5NR2hCSExZOTR4TXhVaWt6LVg4dkYyMks3Zjh6RkZqazQtdmhDV3dFb2lrWmVkdWRCNFE5Tklwc3ozWjIxQTBBUGcwSHR0LXg0M0tsQy01VzNkWTdMazc4UTBLTHJEV2tqMlFHSGp30gGKAkFVX3lxTE5EbHI4bEREM0ZyTVFVNVVQOUpueEdqdnE0WE5zRDhqV0wxNnl3cFFLckZHeVdId28ybHRMZGZfRDF0WGU5b2dYZ0hqREdXUFVzTlVjM0dTN3V4WG5PdzZYUHBrbHk2QjN3MjBzRjdNNklxZnVkamtiSmxZcmZVX1FJcnoxODVLZER2U1JCblA5MTRiUW1IdURPYXQySlNPSDJNSzVIMWhoZjlfczZDaENydWNkb1ZpeElyV3NBUEFOWmk5X1BCRWI2a2I4UnJ1dHY4NVhsZGFkYlBCZ1JWdGdzTW5hWGpJb3J3V3Q3MnpuZG9sYV9RWHlmZnJHRWttdGJUT1U3c2NNcEx3?oc=5",
-        "published": "2026-11-14T16:22:07+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "India tackles fake order site takedowns - Taipei Times",
-        "description": "India tackles fake order site takedowns    Taipei Times",
-        "source": "Taipei Times",
-        "domain": "Taipei Times",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPS0FQUTBXTTZkOENxNmQxYWV5dEJFb1FOcXI0b0tDUWN6LWJCUFdVWUVrdC1BTlh6cl9NV3NfcE1Lc3gtSERpcENtbEhyeTJ2dG91U1cwc3JHblV2UEpsTkVFSThSc3FJTVFPcFFfYlRocndNb2FfMw?oc=5",
-        "published": "2026-11-14T16:00:00+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Who is responsible for poor amenities at railway stations? SC to hear PIL - The New Indian Express",
-        "description": "Who is responsible for poor amenities at railway stations? SC to hear PIL    The New Indian Express",
-        "source": "The New Indian Express",
-        "domain": "The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHFOaGYyQ1BGdkV0a3VLaTZ5cVJIQ1pRS0dPTjRYc1VjS3A1WFREVHR1a1lqYkcwbWxScm5uT2NMS3pDNVNST21ucDQyR0RJX1FyR21wczIxeVhCUVIyWjBVOWxNbFpidjlrcEVUMElTd2tEYVhETERrQXBoZFQ3bnNJaE4yenZBRkd4MjdsNzcxcG4wdkNZTnh6VFhmX0trQVFRZERLdHlNS0hJaUxZWF9QNUpob2Fvc3ZISWpORXHSAc4BQVVfeXFMTmczZWlBNTFLRmpjR1BPOWd1ZmZCT0Jxck5WWl9fV0d6NUtfNTU4X1Fvc0tuZjhBMHpoQWJzNUZBS2JvajZLMHZSblR5MmlWcVB0RlBhaGZBQnlLZ0pUa0NLV0ltSzBLMGZQeTNZVk93TTdSeXFfLXhkNlJ1YW5UdlFDYkUwMnE4d00yaXFOVlhfUmkxUzJGUmdka3JZWTA5dk1ZRmc5c1NsUGxwRkFlbmswWnQtdXJIa0V3S2xsMHFRREl1RVNGR0pHYXBFQWc?oc=5",
-        "published": "2026-11-14T15:52:11+00:00",
-        "indexed_by": "Google News RSS"
       }
     ],
     "Kerala": [
       {
-        "title": "Kerala High Court moots lowering juvenile age from 18 to 16 years - The News Minute",
-        "description": "Kerala High Court moots lowering juvenile age from 18 to 16 years    The News Minute",
-        "source": "The News Minute",
-        "domain": "The News Minute",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXlsWVpQYUF6NkVINGR5MGN6M0xmeWF4T3VEX1lyV3Rsa1l6SElleGZZMll6NXRrNTJ3QUhBRWlkTkZ3M21GX1hqMXZtR1h0TXFoM0lvNWhYSjdrY1dZQTYwRmxmMmZiUTlHX2o1YnczU2oybm1SNnBqNFFjTUt2TWZJa1F5YmhOSHRhQ2luakRLUkEzT01SZXl0UnE4SEFYN3o4RNIBsgFBVV95cUxQbGFodV8tdjZsa29ZSWhkeWNETFFLRkV4SUp2cDV6U3hFc0E0Wi0zMTc4WE8xSC13eW1RbUhKTHJ6emlLekQ0WndYY0l1RXh1dUxuTHBnMGZmZTdSMEpadWgwaFBfOVlMT2lLNmdCVXJOQ0NWV2gzejhrYVpuTXN2c25CWW1lRFF6d1dubld3bjU2R0hrTGdaNWxXRy1BODczUlEtUXBXOFd3N2JGR3QzeW53?oc=5",
-        "published": "2026-11-15T05:53:08+00:00",
+        "title": "Mollywood stars Keerthy Suresh, Nivin Pauly join Dulquer Salmaan as angel investors to fuel Kerala's start-up boom - Deccan Herald",
+        "description": "Mollywood stars Keerthy Suresh, Nivin Pauly join Dulquer Salmaan as angel investors to fuel Kerala's start-up boom    Deccan Herald",
+        "source": "Deccan Herald",
+        "domain": "Deccan Herald",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbGg4YU8wWlYtaU5STEYtOHpzbXN3TVZjek80Y2U5RjRWaFBSRFZMUWVWdG9OTmo5dlV3OUZ6b2ptaWRqandDOHI5bFQ3UHJqak9qYzBGMWo3SnpWSGFSY1ZrOE0wY0U4Zy1XNVVMREtJWW1ObGozREZSX2lYSVFrdVF3S3VCX0NtQTN4Zkg2bEtLM01Kb3BNd1VBY0dDSjgwbjV2R05JSkJBNEdOd0JSdlhFMGhic0pvMVAwQUkzNFJPdEFqeXJTN05Ld3lJWlVIV2hSRW1KWWN4eDFwT2xaS2YwRG1nd1JYUkdr0gH4AUFVX3lxTE9RbU5QNHRWNEM3a09RUm9ZSThPcVR6cndBNU5KYTRSODBINHRtM1dOVkNUU2pfeG1RRzd2UFJFSG0tSEE3bHNnOFF4dXpBZWlCLUZyNzR4SjZ1ZUJ0Y0hKVDdTRlBnNTh3U2NzX0lUUDJTbmVtSVAwaUFQbXkxa1dlS0JTNndzSVBQanlSek95NFNVTU9TeUFmYTFQS1E2WWNHTzNCTVExbkJJRFE0cGFkaHBtSWtrNkg2SEk5SVJrTk1jcjhGOGtqOTlzMUJDRmh2WFp6T1FzbUNnUnR0c3ZUTU1SU2JyT0ZudGhpZ0haREtYT2gwNWY5?oc=5",
+        "published": "2026-11-15T15:24:47+00:00",
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "Kerala Digital Square Project: Computers in all lower primary schools under 100 day plan, AI Learning for high school students - Education Times",
-        "description": "Kerala Digital Square Project: Computers in all lower primary schools under 100 day plan, AI Learning for high school students    Education Times",
-        "source": "Education Times",
-        "domain": "Education Times",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQSlJ2U01haTB3UzlnOHlyeTNNN29oRndza1N0bTVJU1ljaGhYUDFZY2lJRjdiQjdjOTZpN1ROaTVPRkcxZ29PLUlkVXdKeWVXaU1zRDlOc3M4ckZUbHhTZ3VDcjBQd3k5Z013aUxFdDNRM1lOQmJ1QWFYNHFsWU41VXlnbUM3eFk2TEFwMGJRa2NJZTdkbGNzRVQxcUVKRHdLWnlaUFM5XzVxVlVSVFBKNTFWUlo0V3hqNVJuT21HN1lScjlJV1NFT0plcUJ3c2lhbmxWWk91WDdNVWRWWVFhMFJrc0xfUExLZWNyLVk5Y0pqX2Z6WjdROHR3TVNIMC00UGdEbE9vaHBzZDVtS0xnMzZyc3U?oc=5",
-        "published": "2026-11-15T05:50:00+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Ensure availability of food to health personnel deployed on forest route to Sabarimala: Kerala HC - ThePrint",
-        "description": "Ensure availability of food to health personnel deployed on forest route to Sabarimala: Kerala HC    ThePrint",
-        "source": "ThePrint",
-        "domain": "ThePrint",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONW0wVVBHRjctNEdDZWJQYTNtb0xjMU4wWkROU1Bud01fMTRQdldaOUhFRHk5OHl1SGJ3Vm1oblNWUjJTaVdjRFpUSnV5SjZjcUxKRWVIQUJWZF9teVJER0xDOXNHcVYyeVpoWWxiLVV5NzlzRmtGbGQ5d1NuQXBxdGh4eWNXTEFGOC1RYmpMRU9fTUNpbUo5MzJvb3ZmR2czY0UxdE50RllfYWdfTlVqS3RSMFFwbm9rT1p6WldtN2ZkUUNORW5EemNmc9IB0AFBVV95cUxOZmdQc3Q1c1ByOHhMNFdqdzZ6TVBGRE5PeEVhazh4X0ZnVVZpMWg1bzdoRXBaeldJWU5nZGhtbEd0Y2tWampObV9PWGx1Z1F0b2VyaHNLbHd4SHY5Z3ZmdFBZVWgyTm5BaEtXaDN1c3ZLRkdMR29fMlJYR1NGOG5zVnF3M3oxcnE3eWwyZks1TXo0V0hnRXNhMFdvVmtoS0lBRVJFeURxcGRfQVZyY0J0dDVEaHpJaHZNdEFTR3BuRWFpbHJGWmtzVTAtZWJCU0k5?oc=5",
-        "published": "2026-11-15T05:45:39+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Kerala CM vows Full Deposit Guarantee for Co-op Sector - Indian Cooperative",
-        "description": "Kerala CM vows Full Deposit Guarantee for Co-op Sector    Indian Cooperative",
-        "source": "Indian Cooperative",
-        "domain": "Indian Cooperative",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWVN2cnlldlhvS0F2eDZ4MTV6MEJXQ0xGbGt4dVBIejRWbGY4SUdNUXhDb0puVXRRUGpxdElsdUdGdk1xSExVbnFDdE51bUpGS1B5Rm1UbGpCQW1UUm04NW5HNHJrZkFoeE1LR3JhY3MtR0c3NUU1Q2lhTEViemNlbTlvTmZLVkJMMXVuQ29QY3VxMngxMTBuWE5mMFV2elRYWV9jTER3TEkwcVhhS0E?oc=5",
-        "published": "2026-11-15T05:03:54+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Sabarimala ‘Vaji Vahanam’ row: Kerala HC rules Tantri's ritual authority does not confer ownership of temple valuables - The South First",
-        "description": "Sabarimala ‘Vaji Vahanam’ row: Kerala HC rules Tantri's ritual authority does not confer ownership of temple valuables    The South First",
-        "source": "The South First",
-        "domain": "The South First",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTEdMUUlGck5SU2NnR2JjWVhjOEdUdjV3THVUUzR3N2ZQb1hMVndpLU4wbnVpSTRnTXR3elVZUm5iUk0yamNIdVpJUEZYLTNjN0d3YlBobW5TX3AtSjJSdTh1RWcxdkNZUXo4RW8xN3JSc0NYOUhuR3VrdFBnQUNWWWlnSlY0TzBNUk8xbGtNVUJfbTlrZ2txUUhwRzhCRFdxRzJvYnRld08xS1lPUkc5bFFWMWY0UGc1XzE5dlVfZGZlaElud1ppQVBoS0ZfRkh0OHUzNzNqWDBMTU5HengyNVJqTQ?oc=5",
-        "published": "2026-11-15T05:03:41+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "ED raids three Co-op Banks in Kerala, Freezes Rs 2 Cr - Indian Cooperative",
-        "description": "ED raids three Co-op Banks in Kerala, Freezes Rs 2 Cr    Indian Cooperative",
-        "source": "Indian Cooperative",
-        "domain": "Indian Cooperative",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1FFZXNrM3ZiOXlFVVllcU9oQklMLVhmMVNuYnBWY25NNG5rZmJhTWw4TjNyWkZhVUN0OUQ3Q3pIc2Q2MXFaQ0dZazcyZ2JxSEN1NGZ2MUctNGtiV1VfZVE1bTVVbVNSamZvZTk3c1AwaFZ2UWlQcUFvcVdRRXdINWNWU3E3blFYR1pUTzhLeUFQNk9VRFBqSEVzSHdkS2dlcmk0bDRkLXNJbjg?oc=5",
-        "published": "2026-11-15T04:53:54+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Breaking: Kerala HC restores Thiruvalla East Bank’s elected board - Indian Cooperative",
-        "description": "Breaking: Kerala HC restores Thiruvalla East Bank’s elected board    Indian Cooperative",
-        "source": "Indian Cooperative",
-        "domain": "Indian Cooperative",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVJzLUg1UXRMQU9oRThGNDlGN2RlRlRfVjVpdzktRm1NTHI3QjJ5X08zSnhyV2Z6T2ROUXdENTRIX1hWSWo0TllIZ1ZwbGpzNjVVOVZ3M3ZRd2FzUVZqODNoanNHUm9WbGNpNjNvUEQ5NDVpdngwUUpBMHZHcFpzdUtRSk1SOVZQbXJmNlk1QUZvMWhzMW9xWGkzeXQtVDQ0UExzT1hKME44WEgzNFU4?oc=5",
-        "published": "2026-11-15T04:48:54+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Kerala Under-16s vs Andhra Under-16s at Gwalior, Vijay Merchant Trophy Elite, 19-21 Nov 2026 - BCCI",
-        "description": "Kerala Under-16s vs Andhra Under-16s at Gwalior, Vijay Merchant Trophy Elite, 19-21 Nov 2026    BCCI",
-        "source": "BCCI",
-        "domain": "BCCI",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDFIODVFSm9qOHRvV2ZPUlhjRDFZTW9JYTZWd2xzSTU2RnozYjVvdWdhT2dyVnU4TUxKRXpxMlZkeXZ1eDBveEFGUkFZcXA4cFZyaVprRW1WZU5VY2h6NzYwOTVSUGhEX2RMVFhPWW96TFdUa1Y0eC1JaURCdENPeHliZkQ?oc=5",
-        "published": "2026-11-15T04:16:18+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Kerala startup to design affordable racing car, ropes in Austrian racing champion Mathias Lauda as partner - Fortune India",
-        "description": "Kerala startup to design affordable racing car, ropes in Austrian racing champion Mathias Lauda as partner    Fortune India",
-        "source": "Fortune India",
-        "domain": "Fortune India",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUnlTN2NnNEtSSzFKT0d2NE1ReVQ0bUZtQXZmVG9CUEYwVVQ3cWF5TGJMZkRRZFN5cmxvS0JuOW83SldobXlmWVd4cFpLZVVQaDgzekZibmRHUkp0Y3VWOUptMEhGQzd5RnVpWVRCUVZVVWxnc2NIVS1xMkZTa2FKNlZvallnRjlzYy1LQlI3LWFYMG5ET2ZDVVhJSUF4UnN1QnJwZWxkZ3ZSYTE1RnFIYmdvRnBvMEhOSHpSV1ZlWWF4djUyNGM4NE1qbFBYRG9DNUMwVDFQa1VycWVGMXhseVlGS0dMUC11VDVn0gH4AUFVX3lxTFBFbGFOeXpYcGJZWTI1N2NUQTlrakZqejA3Q1JJakhUV2l3VklmcS1ObmFmekRtVXQ2S2Z5LVhSZjRiTWN3dE9SWXNSUFl4aW9oZ0tyWTBuY0NTTlBLNTMtVGdxTnZpQjNPS2NibkI2MEs1ejBkdS1DTC1YSEZCSUd0QzlVVUZ2c25yaEZmQWNPNXFoWHNKRzlGdlVWeEJ3M2d3TkFocEJDbGk3ZGFobHU5T3liOHBObklPa1I2SmVXMTN4TGhGMWtTVThhZW11aV9iVXI4VDhIVmVONDRiWm00QXgxS1N6T2x0cTJlV25PUzF0bDE3M3Nn?oc=5",
-        "published": "2026-11-15T03:36:40+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "PT Usha's ice hockey credentials traced to Kerala unit as IOA poll scrutiny intensifies | TOI Exclusive - The Times of India",
-        "description": "PT Usha's ice hockey credentials traced to Kerala unit as IOA poll scrutiny intensifies | TOI Exclusive    The Times of India",
+        "title": "Kerala human rights panel orders probe into foreign woman’s stray dog shelter in Anchuthengu - The Times of India",
+        "description": "Kerala human rights panel orders probe into foreign woman’s stray dog shelter in Anchuthengu    The Times of India",
         "source": "The Times of India",
         "domain": "The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWHdUdkVKeWF1OHE4RjVwUkxDTGFQNXliMTVpWGlfT3lJWmhGY0RlSGlNMU9KTmQ4aUdXTFpEc2IxQnhlUXgwN2cwejV4a1Z4bk8tc1RlSEdUSTVXYk1UV1ItOFZ5RjZqS0xTd3VBYzJzdDNQMGlzM25reFU3ZXVIZGxfYmhzaTVTcHgwNVNtSFRyZ0hQQVBpcFQ5MFVhdVlPaC1FWkJRUERyQ3BvYU1Yc3hxR2F4X0ZmdXlDczlSMzVicnI2cWQxZklsb1FyWVIwY3YxaUw0STlUUno2dGMwVG1LX3ZmVUhEdjZTR3hHd2V6WFRqYTZyUUNKY3JWVTJZMmlsUkg1OG53ZlZPcE5Mb9IBlgJBVV95cUxQTzlZaTZhNWlpMW42SkZvVm1nRGlJYVAwd2hpLUhULWVvV2w0OEJaTC00THZpbjJNSVg3SkxDcnlBWDJJYTl2SE03YTcwdHZBMmJucEgxZlFHek1oME5aWDlvdkJRUnRWXzl6UndVM1ZFeVN3OHZrNzB4alY1NzJreXNqcDdwUVI5eERKZHRFZlBpTlYxTkxIOS10Y2s2amtsaUM5RmVPU2xWZWVyQTA0WkR6WWJYdVFSYThXTUxHR0pPZU1GUTNCRDdqR2JoVGNjQzl3QUFIS1VBNEFUUXZqVmNEQmFNbndKakRlNU5IZVBacXdIZDgyX3YtODRGQWRIT2N3MnB0SFdsLVNLNzQzdFBHWkc0Zw?oc=5",
-        "published": "2026-11-15T02:51:00+00:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeWZsczVZYkpPZFVRMVhQc3FxdGxaSlRtZUJqZmpMWUp0MlpqbEphbGVJSnJQRGFzazg3dDZqUm42b3FDLXYwYkJjazNJWkhHTV83TXduSUtNSzROYWNfZFZ6NHh0T3E1cldBVzk3T0h0N0JGS0EyZ0tZb2I3UzRBNGM3TXlJZWkyZU1KSFluWkJBR285cnI3NWdyUVdSc1Y2ZG9HNWhiOUpJeVhzUERXWi1nVWljR3JWdFdFYWNWSEczbGM4M3ZueHR2eFAzNDFzblE0TlhmRkF6cTlYNG13LUdTbzJBRTE5cUJyR3NIWDFoU1UwTXpQTENmcmkxbmFxMUtMeUVPbGPSAY4CQVVfeXFMTkVnbU1zYnpZTVlEX2ZKdkwtdFpCaUpLQlFucmctS3pySGJSV0p2UGhZWWx4cjNOWXVrN1lKWGVPVXFSRjJCRDFveUVPZnNLQWlDU096U2pDWFBEVHNITGVxOFJkVVppQWkyX3B6dzE1SFM3RndUa3NTT0pjR1ZXN24xN25IU2ZnMTlaSVlrWWxVZ2lEcFNHbFJrT2NpdXlLSlBJdTFBNnpQemxZN1Q0N2NPempmcWJIdXdjRFpUVEtRTmVmVXp0V004ODFiQ0txa3g0VDkzV054ZnJJZEZNVWxxT1lmSnM3T3RaUnlvRmt4LTN4cTVsdm5EZEgwVFJNYXlOYjNwdENQWEdMM0tB?oc=5",
+        "published": "2026-11-15T15:12:00+00:00",
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "UDF to take a call on association with Kerala Pravasi Association - The New Indian Express",
-        "description": "UDF to take a call on association with Kerala Pravasi Association    The New Indian Express",
-        "source": "The New Indian Express",
-        "domain": "The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenpfZWZldmJhaGtxVUFSalh6ZXA3dFZPUVRraUw4OUJ5aXo0ZDZsUnIyRkJQT29OYTQwYnd4RW9ZYk1rakVBY2xRNkttbUthbTQzUi1zNjdiZV80X243a2R6RGFnRkluX0dkVGN1WXpJZDJfZ1ZWOXdhQWJLeS10ZFp0M0JtYVl0bVU2Rmd0NWx4czZuYUF5Yi1aTUFjbzE3YU1Dd2NRRjdFNU0zNnF4YjlXbUlIX3E2Z3p5ZWdYUGtIZ9IBzwFBVV95cUxQWnFoaWRmTUVKcXg3c1A4RlJKM2E1cnFwbWZJRlB6VE5iYkM3a0pmZG1xYnpYTmVCUjNfSDh5UVItMUV5a1BoVlB2QmRpN3JNcXhMdWY0Qm9BR29JWGt6U2JtWUNERW00RDF1Z29YTVRBYUpoMVpGbW9yX1dYS0twcXVSUnlpaU9MUjRVOWRyTExaVURTdkkxMXdIU3hWSlVvdnpkSG03Y0hURlM5RUNkQWF5YkdwX193MHZPYi0wN0RYQ1VkT1RmUzdDR2Q5Mmc?oc=5",
-        "published": "2026-11-15T01:42:41+00:00",
+        "title": "Water sharing: Keralam to initiate high-level talks with TN - The Times of India",
+        "description": "Water sharing: Keralam to initiate high-level talks with TN    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG1yN1BfV3N0SWhhQi1saGlMNDFwQmhiN3NlUjFMX2QwR09MRXp0V2I0OFE0dWdZaDh3NjJ4MHpRUXEtS0pYWU91c0wyMVVQalF6YWFZbWpvODBtVFRnZzNyNl8tcTU1WDlJTWNXRjZiaEoxSHRIbG14YWhKSXpKOGhpVmJmaVU4RVUyNC1fb2g5SHpkd2JGSEo3YnlkWU5VZVQwRllqc2ppUURxYUxOaGU3eU5oZG9XX3RSVnp3SHhMOXPSAdABQVVfeXFMTUpYZ1c4cF9ELUdXTkxSZ2lnNzAxcTd6dmFjdEFaYTlIa2ZhaW9ZRHdzcEhDZ0t4VjF5bVVmbmVLNE5CQzBzTUNoSW43THlnV1E1OUgyeTZ4eW1fMzI3SDl0ek9yanVQMUJHNmNuRjJEcEFiQTRZNmxpWnVGcGtSZ3lqckZ4bU0zSU9Ock9LQW1Yb1Z6UnRydU5uUXFpY3ZLVmduUll6cXgwcklWeG5UTDdjZTVXUEVKSVFuNnVyRDU1WEk1dWhDekwzZ1BsdGRTVQ?oc=5",
+        "published": "2026-11-15T15:03:00+00:00",
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "17 dogs dead in 2 months; ABC centre in Kochi comes under fire for gross negligence - The New Indian Express",
-        "description": "17 dogs dead in 2 months; ABC centre in Kochi comes under fire for gross negligence    The New Indian Express",
-        "source": "The New Indian Express",
-        "domain": "The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnpjQ2l0bDMyc2xJcGtxb281eE9lOTFvaTZRWG93ZUg1dzVzLXU0dkVuZDZ6Tm1FcEVVZG1XaHM4U3J2RHg0cVoyR0MzN0JMeWZGX3hnenhiSjYyakVIbG1oMThyX0RCMEdxM1lPZnJ3RzhqQVlpWU9XRW85bURfNnYzV05IWEhmbVdnbkJzVjB1Qy10M3VaTk9PZmFvWm1ZeHF1a0hhdERVRldIUmtXN0UtUjVMb253NFdZOUFteEpIeDlqeFdCcHhfT1JWWGp0RHZtbTkya9IB5AFBVV95cUxOVUJuRm93SlFPVDU4WGVRN09BZ2sydXNpZXFLMnQ0Vm9VZWZsbWVPZTlwSUE0SkVFS280LTM0Q0lPVkdyd2pTakFzUXhuYnozOE1XNF9Ocm1MTzFONXNFOUVWdTMtbWgtQXR4emlybHY3S2tWNVQ0SjI0ZVFQbVlMMVFjUG5pdjNpTWFkLVQxc0JRLVNlaVZsWExOOEVvU0JwS0JMbDE1OUhJQlVkUHMwaHZwemNGd25hbkpqeHo2OXRfZHd6azBUQmswSWFPUnJ4T29aYmd2Qmo2U2Z1dHhQUlNfN0I?oc=5",
-        "published": "2026-11-15T01:34:26+00:00",
+        "title": "Facilitation centre for Sabarimala pilgrims to be opened at Kochi airport on Nov 17 - The Times of India",
+        "description": "Facilitation centre for Sabarimala pilgrims to be opened at Kochi airport on Nov 17    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVmxHLWVFYnAzTnRIOW5qUXNrdWNBdDNUNm1URUhLaFV4bFk1eGk3YzhBTVRSSnVvMzF2eDYwaTc5akZoWGFfME5lbk1ibl9URk0taF90Wk81TVFTXzZDbnFXaHFMeEhQSUV3MGhEeUxLTWtzR2pwbDZqS3NHVGpGSE1WM2VuQlp0Y3plNENRSXZ1WEhHZ251ZjIzNVNNT1dxODdkY3hBb1F1YnAxR0RsMjRvSml1RjNqR1JVdk1VeDJoc18tQllvMnVMU2g0X2YybWxtXzVaTXdEemVFSTI2WDlSLWxxYkhFSmJLRdIB8gFBVV95cUxNVXRwTjJlVXlUUVZVMXdXVWczbzQxdEtRUk9NcFRXVGwwVGJGM0dSZ2JTS0VwT2I0UmF3cUlKRThvbFlNV1g1VUVEdkZvQXlmTThXYnRvdlZONF95MEQxcnUxdjBJN3NYZ2w4QlV6bWEyN3M3YUZ2ODVId3UzbmJzNGhnTG8zanh6X2JPc3k4eUtjbDFValR3b3dnUUpaX3pxQWk3X09RT0hlLWxOLWM2Zjl5dTJja1NKcEYxTnRxeGtKMzktQ2psV3pQSWdobXJhaTVJcmN6UWNDY0tnN1JESHRwaURQejlSUzBiVFYtVXlkQQ?oc=5",
+        "published": "2026-11-15T14:49:00+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Ahead of NMC inspection, 113 govt doctors temporarily shifted to K Karunakaran Govt Medical College - The Times of India",
+        "description": "Ahead of NMC inspection, 113 govt doctors temporarily shifted to K Karunakaran Govt Medical College    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeGswUzc5ZVY4dXJNN2w1eE1kUkQyTW9zaFBabkx5ejlJbzN6Y242R2xvUlMtZ2NVNXNhZ0xoc0dGTF9ITzZob25pVGw2X1ZpMnRuRlpPSDdFNUp5VzdBRmJ3QkpFY3cwWHVtNC1QaGl2UndRQVFhMUowYnhlQWdpS1ZMeF9jcFJWOWlIZTNYYy1tVk91cnhhTEYyUXI1M3BwdUZsNnJIbmJjclhuNWhjX0Y1eDI3VFZyeGFHYXlZMDI1a1JVNnlYMUtuZUh2N0dQQktUOXNHN251eWJ2Sy1xUmtQQWlydXpiOENaSno3Q3ROTUVYel9OSmlPbFZKbU1VT0c2dDEyUTlvcmFyU0VtQ2R30gGXAkFVX3lxTE81NGZHRDhZVkFMcVZzRVJJZ2RDUUNVa05XaWstNTdKVUN4bnhISzhaQzdfQlJPQnJGVmNxQ1o4RF9OWXM2TEF4SXJ2blEzZC1DUjBZTzNNanAwcDYyWUtxanloV1lEUW9hMXFnWjhfYWVUcWJOMGNaeDZtdjdqMVdYcHlPRVRjaDlvamYxN3NRUzZJSU5TU1NNeHpncjJZN3Q3Y2l6U2hUTkJ4cnB2bmcwZlFQbVVpdG9GU0ZBTXBKQ1llUkhfbWczMWVsVVNrRjJ5ZHlTc1VKMzFtNTJydHN0SVp0c01vc0RHU1ZQSGh6VEtmNVRXdV9Ibmh2eXRaSmVCdGJNdVR3U3BiM3Nkd2FQeVkxbGpNdw?oc=5",
+        "published": "2026-11-15T14:43:00+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "CUEA seeks removal of student representative from Cusat syndicate, review of decisions - The Times of India",
+        "description": "CUEA seeks removal of student representative from Cusat syndicate, review of decisions    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0NqR3ZXZ2FvQlRWbVRCSlhRVVp1WUlfZFM1bWloZEM1Y2QwbjBHT1BobTRsTUc4a2ZudzJFYk9HbU5QMXlzMEVQajkxdy1hVGp6dUgtek1XVnRfMmU0R0FUV3ZQdmJwWC1mWXVpU2RONkZHRmJHRnIyODA3R1lULWw0TmZ3ZW13N0tTWVRCUUtMWTNwUF8yYmhMSkVlRzlKYWNjbnlUMUozcGZ1Vnc5RUs2YWhyV2dJNl9xa05kSUtmUUladE1uajhUU2NjVmhkQmREM21fYlhNdzEzU2UtcER2MW5zQ0dBaWFQNXNyZ9IB9AFBVV95cUxONEF6QzJYenY4SE0tc1haZ0R2eGRFcWkzemxJR1ZKYk1wYVA5XzhhRXB5R1FTYi1pMWJTTjVXUF9kOTlvQnlfbThBeWpBWXZWTE10dkJQZWw3SVJZQy1qckdoaHdvRGcybUVXc2dMeFM3MHpFQV9yMGZhb21meGFMUDNKSnl1YkNpLWhnaEpNMzBmd1FQMFBtLXMxQm1kMnhqUXlxQzljX3MwUEpONWpESHBBaFdGQUZERWp5d002U19hOWhyU0JfbVF3dGFpN1JKX1J5cnBTX3ptanBwcjF4ZXdUczUyYWlvYTBhbEpCYlNlcGdj?oc=5",
+        "published": "2026-11-15T14:35:00+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Man arrested for assaulting KSRTC driver - The Times of India",
+        "description": "Man arrested for assaulting KSRTC driver    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMzdDNDhONXdVSlppTEh5bjllT1NpaU5QRkJXSmptdDZORzYzTTNWMXRkMWRtdEUzeVRpTS1wejJfQXc4akpWdXdWc1NSOFBkR1hqSFF3RHZZVnVtZFJHS0NaS3FWVmg2eGR0cmwtcjZLaW05VHFybmYweGh4RVk1VzlNTkNKU0hwV2hxQjJpUTkxRkJBRE1JbExfOUF4RHpfbkYxcFpUX0tSZmNQbDJ5WnEyeURCV2hiNG1sZHphcHBITkZW0gHKAUFVX3lxTE14LU5fUzdzMmtDTXdyenBZc0Y1blBKZkh4YS0zWDY0X1RrNUs0eFU1b0N3NVJLcG1UVTREMDd0X2xrVUJ0SkJndDdzdEkxbENXb1Y4ZWZJbl9Za19KSVFMNExmczcyZV9TWnpBMXZjeVVnNzRkMlA4aDNjRFJ4My11MUs5OUtFMGszVV9qc3ZwMzZXbkRhWmtCZkxXVV9ady1sdFlYNFBleGlEU2Q4RTJnc0dOR3VWemp2Z3hrODMtdUlCSHIydGZCZFE?oc=5",
+        "published": "2026-11-15T14:29:00+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Rare motorcycle color leads police to gold heist suspects in Kerala - Deccan Herald",
+        "description": "Rare motorcycle color leads police to gold heist suspects in Kerala    Deccan Herald",
+        "source": "Deccan Herald",
+        "domain": "Deccan Herald",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2VNWmRmRlEtUWo5MFRPUnhiZG53VVNyUVZDZTltTUxLdnJTOTY5Q21STnBnZjc4Q2FLaXVNc2FxVEpOLWVyeW1lbGxsa0NXbzM4LUc2b0NtQWZoNmJEbkh0WEpyclg2WlZEa1JSYWtTaUdEalB0SWpJSjVFcHF1dnd4XzZEX2VjdmVnLV9qRjUtaFVNNVM1cXRIQXdKRENDUktEdHNiS20xaHBTcDJxU1hLTzFKX0FnWVE?oc=5",
+        "published": "2026-11-15T14:25:22+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "CM intervenes to resolve strike as Valarmathi’s condition worsens - The Times of India",
+        "description": "CM intervenes to resolve strike as Valarmathi’s condition worsens    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX0lldHpxMERBZWM5SFhLOVA1eGhEUGplMVFXWGc3d3IxV2dXd0hiLWM4YUF1WUpfcFZhWVYyb1Nmbm9rNkNoUzN0S1pXMmVwU2pjc0E4VHdfM3BGaHhDaVhyY18tNjBZZm4zckt6OFV1OWJYOUozbkNXM182Z3ZTY2QxQ01QanY3MTdBOHJvNkczZlhxX19NbHVTdHo2ajJCTFBZV2NpX3ZYMVFzT09DOEVsTEpuREptMXZUSWdvZzlXZUFsMWdLYlpUaFdaWmlOSmJrcFNQd0JFM0lZQlNteldILTfSAeoBQVVfeXFMT3pmNnRCUzRTck1PajRBRWtnR0s3V0lyUXplT0ZzUlFJTWsxcUVnSUUtQzNFNTVrUk1udVVGVUo3Vk1JcmtpY29HemExckJLTTJNcUdaVkhCeHM4WkZUX0Zja0ViS1V2WG5sQ0FNOFY3ZW93ZzBrSUNxRllTazhlblVTaklVNTExQU0yVnZDUlEwZk54T1JqTnp5ZnhRY3ZzUjRZMFpMaFNhQm9XUzZOQnVCaFBtNnF4OVM2WFBaNWJNTDlvZTFaaC1OMWs0NUdDWUZHc0hzUW9lZGFJM3VhX0R4XzZLeU5UcUFB?oc=5",
+        "published": "2026-11-15T14:15:00+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Muslim Family Performs Hindu Woman’s Last Rites, Mosque Opens Doors for Another in Kerala - The Observer Post",
+        "description": "Muslim Family Performs Hindu Woman’s Last Rites, Mosque Opens Doors for Another in Kerala    The Observer Post",
+        "source": "The Observer Post",
+        "domain": "The Observer Post",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZi1BWjhFWVFzcFYtRWZxU2dlbWR6UDg4ZEJSTmtvUldERDREOFI4Z29ZeFN1X0JSN0ZMcGhQTkpqa3F2TTRiSHRTcDQ2cXVpc2x0M1luQmFIYm9MaUJQaW5pNXhOc0R4dHNQa3Z6dWJmLTJmVkJsZ2VMdk5UR18ydG00ZVk0dEczX0NKOVFLWGJpSEpRSnk3czNwTWZ5OGp5ajFhWW55YjdiZ2lRazlFMlg4dUswb0U?oc=5",
+        "published": "2026-11-15T14:08:33+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "13-year-old boy dies of electric shock from snapped wire in Kerala paddy field - India Today",
+        "description": "13-year-old boy dies of electric shock from snapped wire in Kerala paddy field    India Today",
+        "source": "India Today",
+        "domain": "India Today",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUWVWX2s0d18xVFdaRVZqMS1lbUVWNmNLSGs3V3gwQlpnSjVMaDVzNFdXenlHV0FWZG91alFoZEVsQndBZ1N2SG51NVMwT3VuTFItd1JkODFwRjdFWDNLMXJmT3BHYUZpSlNHaGh0MHNWSE0tTExqTWtxRmdnUWlhTjBlQVlMSUg5NndLQTNHX3FmVzVGbFdRSmF5aWlPVmpDYWlETkFHWldMYjNpeGF6MUpTa0VjZVdqeEIxNmpQQVNsT1UtY1cxR0FCYzRjTGsxbEVpWVhvVUNrUnVLUm5YQXZCdERzZlpFdTNDeEJWRnA4N19VZi1zVm82ODNfdkZQcW0tMGg1R053Q2N50gGSAkFVX3lxTE9qNE5PWDdfRkVvOVlUMjYwQWoxdkU3R3JmWDFhZFFHNTRYSU1reFZTMXhiNl9DYjZuN1g0cWdSMlI1TXo4UlYxUnktbkdXVHhESkN0b3FoTC1NZ25uNjBMVWdLSWtJNTdpZUEwcmpDOHpkTWxZOXJpa3FYSFBNRzlxdVJPRUNCS1Y3SklDcUY4clIzUlhDcDJ1eUdST3VUdWhnWmdDX3NHN1pQeEQ3Y0I2U29ZUGxTREd0enBNY1VtSDdTaWFyNDlGQm5VOUhqSWxLNGE5MGN6VUtsTU1sdTROckRjNklEeGhSRnlOS3ZGY3hITGRwaWhuX3NaekJfcktvRThIMGNDbzJyUVFIVmZaeGc?oc=5",
+        "published": "2026-11-15T14:08:25+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "LPST rank-holders informed of CM's proposed talks with Education Minister - Onmanorama",
+        "description": "LPST rank-holders informed of CM's proposed talks with Education Minister    Onmanorama",
+        "source": "Onmanorama",
+        "domain": "Onmanorama",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTVyRkFtTjFRTHdzWHRQMVphaU5yT1BreHFJNGEyTG94UEV5cjhmckhHZGlaUHhqLWs3RnJIQjUtb3UwN084ZHJTazB1Y2NyVS0tdWZyNmUxdkhQZFctdXdmQjNJSEtWRkZIQUdiczFqTHhMa2tQcU9rUW5vVzVfWHhfVDd5Q0JReTNkX2hJclJROFVoSElCN0x3TFh1SWM2UV8zbks2ZHZ5SkpxdWx1Ni1heWh5Y09uZ05nUHU5YXVpTnozMFNr?oc=5",
+        "published": "2026-11-15T14:01:26+00:00",
         "indexed_by": "Google News RSS"
       }
     ],
     "World Affairs": [
       {
-        "title": "Rappler. . Thailand’s Anutin Charnvirakul arrives in Manila for ASEAN Summit WATCH: Thai Prime Minister Anutin Charnvirakul arrives in Manila on Saturday, November 14, 2026, for the 49th ASEAN Summit and Related Summits. Anutin has been prime mini - Facebook",
-        "description": "Rappler. . Thailand’s Anutin Charnvirakul arrives in Manila for ASEAN Summit WATCH: Thai Prime Minister Anutin Charnvirakul arrives in Manila on Saturday, November 14, 2026, for the 49th ASEAN Summit and Related Summits. Anutin has been prime mini    Facebook",
-        "source": "Facebook",
-        "domain": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdW9kSWFjZjRlb04xOWZNMDFQa2JmamJyRWZvSlhxOGxQbXd4WDVBb0VOLWpVYkdRWnJoWVRBMUxoM2JIcEk2ZnJrN2FmRWlHUFZmVmdpcWg2Z0gxcnh0S1ZTUWlpRmNMaEVSdWFCZ2VoZko0Vzk3UUlSdnJmUDhWQTZieUtWQTFrSk4yTlhOSEJ4em5BdFZGNHpGTUpQOHVnekprNzR2QXVIZDZDb3RTVGFUYXBGY2dSaVhybnBvOEtLazJtVW16M2ZxWVVBSGF6ZHJOV04teDVSMGJG?oc=5",
-        "published": "2026-11-14T13:32:13+00:00",
+        "title": "UPSC Essentials daily subject quiz : International Relations MCQs (Week 188) — Check out answers with explanations - The Indian Express",
+        "description": "UPSC Essentials daily subject quiz : International Relations MCQs (Week 188) — Check out answers with explanations    The Indian Express",
+        "source": "The Indian Express",
+        "domain": "The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdURVQjlab3hFVFU4SEVYaGJRQnN1TUY3NUtjTkNLRktxZDJUMy12NzBUc2FFVkxWck1fd3J3TnpvdWpoNS1VTmc1MTlMUlJENWNzRy1SRXdMRE94ZHdYbFdMUmZPX0FlN1dFSGZKdVJoanQyZHZuUHp4dUNmTmpNZk1NRnp0bjd3elJ2NXpqSWNUQXA5Vnk0NTRNeFA2bXZyZXhyd2RZbmVqLWpUVlhwbk8yLU9oYVpPNmt4bHdVa1BhWk1DX3lJdHlnTEZpNzZ4cFNV0gHaAUFVX3lxTE5hRklYVUdaNHRqWHBMaHZUemQ0bHo1d2lQdkQ2azRRRUlVa0dnYmV6UHV4QzgtY05ySTduVjNZX2E2Z3FXT3U0YmtEMUFVWWJZbER5aTEyVkNpajV4UEZkX21QMGxqVjdRZVphMS05bnF2TG8zZ2R5S3djR3lBSk13Ym50M2dqZm5CQmRzN3dmTGROdGh5NkNUeG1sR3g2ZGplbTdBZm94Z29fa1JhV1lmOWRWZTd2TDlpaWNUaEszNlBYSW1RUlJJSER3NkYwV3p6UjFQYkphSUdn?oc=5",
+        "published": "2026-11-15T14:44:12+00:00",
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "India-Philippines ties \"excellent\", says Secretary of Foreign Affairs ahead of PM Modi’s Manila visit for ASEAN - ANI News",
-        "description": "India-Philippines ties \"excellent\", says Secretary of Foreign Affairs ahead of PM Modi’s Manila visit for ASEAN    ANI News",
-        "source": "ANI News",
-        "domain": "ANI News",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXE3YU1YU3FwYWE3SU1kcXVwTkpWZ1J1WkRVekUxbmFHUXVEUGxaS3pMY3hoT1JJcVBDWGJTaDhrUHZIb3BfTmtPTXc2QXo5emZHX1ZFaXdST3IzeFZoOUFvQzB5aVNuN0Z0Q2VzaHJaX1A1VmRETVkzWENWeUVOaGJzSGRPUDZ4Z0VIS2ZEM2Ytc1RHMTVILXRRZjV6Mi15SEllbE1QaER2MTlocVliWjBjLWxrZ1pXYmQwSEFGWGdaRHFPOXZsWGlnS2hBUzJTMzc1ZFBEOW13T0FDR1hMWnY2Ym1UOXJH?oc=5",
-        "published": "2026-11-14T11:20:00+00:00",
+        "title": "US rejects report of Quad on 'life support' under Trump, says Manila summit being formalised - The New Indian Express",
+        "description": "US rejects report of Quad on 'life support' under Trump, says Manila summit being formalised    The New Indian Express",
+        "source": "The New Indian Express",
+        "domain": "The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR3MxMFM3V3phazRaOU8zQ0tiZVZuNDhoRjJwamdBVGdpaTFOWUtRekVmY2lTNDkxeGw1UkZQbXdRN3FBd3Rycy1KT0dOeVFIcEVtNjB0QWtjZGNPMlZYRjhCZ2tzY21fbEVkVlFwTnpPd0dwd3Y2SnR3d0pnUEtiaTdpVURlckFFbjFBMUQ5OF9SQlJEYUpJZ1kyR0I3MEZ0ci02Yk9KVkppOEM1QmxGUk9FamVocFBfcXVyTnhLVHNrX0RRZldRZDRtYnFwODls0gHeAUFVX3lxTE00a3BSdExfZFAwSTZBS2liX3NvR0pBREFRQ1NmUTZ0alVBMkxjUThNNzZRa1BxdWE2ZEZPV3NsTGlwNkxzWUhFR1RxRkRyWEdZZXh6d2FsTVZaLXNyRW8zY2tpZ3B2a1dHcnZQQ3ZfcDJBcTIxemJHT0tpVXpObl9KRmo0ZjhUVE5rdGFmUUlLZEFwOTVFXzlxUTdQQkVYVVBIdDNNU1VJX19qWXp2RkxSZmlPb1pSSEJVUC1BU1VMYzhyQkVyUld6c3l3V29scHA5ckladF8zdk9hZFZvdw?oc=5",
+        "published": "2026-11-15T07:00:20+00:00",
         "indexed_by": "Google News RSS"
       },
       {
@@ -253,12 +253,12 @@
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "Nations grapple with loss of 1.5°C target at UN climate summit - The Business Standard",
-        "description": "Nations grapple with loss of 1.5°C target at UN climate summit    The Business Standard",
-        "source": "The Business Standard",
-        "domain": "The Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUI4eTQ0RDZ4U0dpNU9qVENoeE04MW42aEV3MElvVldnQ1JLQkQxTmV1dVhRSnVrOW5nSlNXeWdmeVF4dmRaU2xscUVtMm1PbjU2WnFFc3YzUWMxaTJoSWpwR0ZuVHhvUVNuc2Rua3hCQWVhMUIyck51ZnF0ZkpFTTQxMU5HcFlqRXhaNEdUdEFtS2ZM?oc=5",
-        "published": "2026-11-15T04:46:02+00:00",
+        "title": "ASEAN Opens 49th Summit in Manila With Digital Trade Push, New External Partners, and Call for Regional Unity - InvestorTrust",
+        "description": "ASEAN Opens 49th Summit in Manila With Digital Trade Push, New External Partners, and Call for Regional Unity    InvestorTrust",
+        "source": "InvestorTrust",
+        "domain": "InvestorTrust",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaGlCRkJieEhFOXBwQWMzd3dIa0pBOEVjaUI2bjNwRkZXTTdHUG9LbzlKazRkbkZ5Y2FzVWV5eE9sWGdHQUdPZWcyczZCYXVpUW41Y0lSZUpkaFRxdE9OMzBSeEdVb3pIa01Hc05acnFveF9CTklaZ0NIVmtoWWpjcDZrVzBXZVRyRXFfVXpVQlNsQ3lhQjJQUGdRenJIVy0yemdPMndHSDJyeG8xbDhnQTRxMU9wVkFDZFh2bTA0dUI0c0tZQ3J3RjhGYTNIN3NoemRBdjVLblJrUk9BMWFn?oc=5",
+        "published": "2026-11-15T06:45:00+00:00",
         "indexed_by": "Google News RSS"
       },
       {
@@ -280,21 +280,21 @@
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "Manila turns into global diplomatic epicentre as world leaders gather for 49th ASEAN Summit - The Tribune",
-        "description": "Manila turns into global diplomatic epicentre as world leaders gather for 49th ASEAN Summit    The Tribune",
-        "source": "The Tribune",
-        "domain": "The Tribune",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaktqbGgyb3RBVnliSFJhS0RTVXpydHpKSFRmR3hEVVBhdUVSUTI3RElyQkRLMmRTUFFpWFdpQVFZM1Zlc2N4eTVzUzc2YUV3LWEyT0g2OFZfa2RVMDVBQmdGSnZkQldScF90M3RMbHk5TFZUZnNGYkcxVy1mZXFBN2FlaDJQX1RJOHA0SEpLam01Y3lrNHBaanQ5YUptQl8xYTlIcmxkeGNCTGUzenVNVS1TNC0xQXlfWGtsalZrN0lHMHF1Y0FiWmtpM2_SAdABQVVfeXFMTzh0WUtIMDN5YV9mdU1ta29sdGxYaXN4LU5xV0tsY2JhNEZPVGJkVjRZb1JHdGt5aTdESjZteDBiV1FVS0ZySzlGaWRRSlFVQVc5ZGtCQk9ZVkpfYUFGS3lld3VrbGpGd2NkLUVmemxKejU3SFB2bE5QaUozWmNnb2M1YXZMb3NiczNDeHNoR2NBSlpDNUxqMHdOel9MNzNaNTRCVE9oUzlGR0NFR1JjZC1EX3dsMS0xU1hhTzBqSVF3c0FoZjVyMEFzTTJmWlc5eg?oc=5",
-        "published": "2026-11-15T03:07:15+00:00",
+        "title": "Manila turns into global diplomatic epicentre as world leaders gather for 49th ASEAN Summit - ANI News",
+        "description": "Manila turns into global diplomatic epicentre as world leaders gather for 49th ASEAN Summit    ANI News",
+        "source": "ANI News",
+        "domain": "ANI News",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDVCQTJfN2o0V3VfcjRMZjlXRDBDazI0ZzdzWnp3SXpuTDB0bU5yRV9BMS1rZ1EwSHlQV3p0NWRFVnRDYVpuVk5hMWQzRlI0SDdJQ0JCcFo3dk9fa1dkbUlOcE9lblRSY1ZweWEzckM1NEpoNk9DSUtRWDhGMlMtZmtsOVF2bldlX2trZDFCRU9iOS1PZnIwQmdjeTdGa2ZUTWhRUU1jblhNczNwQnRRdUlQdWF3RG1PSUFMX1BYUVZBbHhqb0twaGNXNS0ydkc3UHBEQzRncnR3UE4z?oc=5",
+        "published": "2026-11-15T03:02:00+00:00",
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "ASEAN unity faces test as energy crisis, conflicts loom over summit - The Daily Star",
-        "description": "ASEAN unity faces test as energy crisis, conflicts loom over summit    The Daily Star",
-        "source": "The Daily Star",
-        "domain": "The Daily Star",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTJ0MThmTjNUS1lvWklkVWU4dklONnU5MEYwSTVyRnNOOEVaRHFzVGRWUExjS09sZ0EwczdaS05Jalk5ek4ySkJMc3pwVk52aC1QeWFJLWt3RERwSlZzQXpRMktsdzItRWlIdmJTNGpfajNfUXBnZ3hoNkxjbWpzX2lFYXcxZWstRTJnUWdpeGg3ZGMtbVdwNmJTbzM0QmZCanRWR1NmZXR5aFpFQmlSb0RKcGZrcTdlaE1FeEZ4X2t4TUdLMHRjbA?oc=5",
-        "published": "2026-11-14T21:55:08+00:00",
+        "title": "Southeast Asian leaders, along with leaders of Canada, Brazil, the United Nations, and the International Monetary Fund, pose for family photos during the opening ceremony of the 49th ASEAN Summit and Related Summits on Sunday, November 15, 2026. - Facebook",
+        "description": "Southeast Asian leaders, along with leaders of Canada, Brazil, the United Nations, and the International Monetary Fund, pose for family photos during the opening ceremony of the 49th ASEAN Summit and Related Summits on Sunday, November 15, 2026.    Facebook",
+        "source": "Facebook",
+        "domain": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVBQOHlncEVFemM2Q2taUDhLaElyQUVXWWkwQmgzbnpjMzh4QmhHM3N3TlRCWkZlVDdTWGtVWnNIUUlScV9OSHdmSmhqUUJsZVFBMXhsWU1FZ0RqU05sdWNVbElyWWxfLXJFX0VZQURrYS10NnAwOWl3bGxBbVpLRFRYYXBNRVNWY3RZQ0U3UXZ5aFBkUk5TMjc5WjN0ZFI3MkdiQ0NCZ3VQUDVNclBaQS1qWXlYVTBZZlNkd0Uxd3RNZFRoek5OX2pkc1VpY3ZlcDVTa1Y2NUZDSWc?oc=5",
+        "published": "2026-11-15T02:04:30+00:00",
         "indexed_by": "Google News RSS"
       },
       {
@@ -307,34 +307,70 @@
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "SA President calls for consistent application of international law - Channel Africa",
-        "description": "SA President calls for consistent application of international law    Channel Africa",
-        "source": "Channel Africa",
-        "domain": "Channel Africa",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRGMmxIbzQ1VVJzbFRFb1pYVHdxZzNfMko2clZTN0t2Zy02eEthTDlEV3JweTdySGdhNVZJTTdfRnA5dlM1LW5Ia1pleUlucy03MUxYZ1RWQmItLXZSYzFMOEo4QWVvcEZIWUU4d3M2TDlZU3BCaWdyeVdONU5rbklFUHNEY01kZF9YVGVTUnQ3eG5iaXdfaG5zRXBNb0l5ZDVQYUhsZE9CTXdVRVUtWkY0SHlTNFlHVnc?oc=5",
-        "published": "2026-11-14T10:18:01+00:00",
+        "title": "Canadian judge decries U.S. sanctions of International Criminal Court as 'attack in favour of impunity' - CBC",
+        "description": "Canadian judge decries U.S. sanctions of International Criminal Court as 'attack in favour of impunity'    CBC",
+        "source": "CBC",
+        "domain": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1k5bk1pbjl4TVJHNjV0akVDcG43aXdURWVlS1NWUzlvZ2tfQkFuVC1ma0s5djNGSFpQNWV2WF9hMV8yb2lZbGpPMmxiS0ZvN2llTFEyaDU2dURwSFF3RFlFQ3RyMUtYLVU2REdfQWFINUU3SGIxSzYwU3VYMlFXSDQyRjNXbExRREdTaW05Zw?oc=5",
+        "published": "2026-11-14T09:00:00+00:00",
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "Pope Leo’s South America Tour - Foreign Policy",
-        "description": "Pope Leo’s South America Tour    Foreign Policy",
-        "source": "Foreign Policy",
-        "domain": "Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0VtcDFRT2VvUHB5dkJvRFl6VWhSNnBoV0xTd1RVMjc5WHRYa3dZSjV3RFVGcEliUGk2Mkh2Z2dyaXpRbEdHUmZfSzFOemRlOG9CdVRjaHBKM0xsVVJBLWE4UVpZVVB3Ri1oQUVodmh6Q1VFWmZxNjNnYVgyUDZpUXpUX1hPNVdDUHI1OFl1NHNOQQ?oc=5",
-        "published": "2026-11-13T17:24:11+00:00",
+        "title": "Trump 3.0: How the Miller-Directed White House Could Recast American Foreign Policy - Impakter",
+        "description": "Trump 3.0: How the Miller-Directed White House Could Recast American Foreign Policy    Impakter",
+        "source": "Impakter",
+        "domain": "Impakter",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZVp5N0h3U2RQT0p2Umg5QkFzc1NhU3djbzdPWVVwU2Y5U1dEX21pd2NBT2gtVnR2V2ZrYWpCY09tcXd4WUhTYVdqa1lJaDdCNUZMQ0ZHQnBSM2d3ZFNDcEtvWTJhSmNaYTBwSUc2M29HeWt3aHBnazJ6cUJGRnljbE1BYTF5cHhjY1hFWjhBQ3JlNGdraEUxV2JuQnM3VkU5WktfSWhDaw?oc=5",
+        "published": "2026-11-13T12:14:39+00:00",
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "What’s Behind South Korea’s Rift With Ukraine and Turn Toward Russia? - Carnegie Endowment for International Peace",
-        "description": "What’s Behind South Korea’s Rift With Ukraine and Turn Toward Russia?    Carnegie Endowment for International Peace",
-        "source": "Carnegie Endowment for International Peace",
-        "domain": "Carnegie Endowment for International Peace",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmI3V2VGTnZJZk50NzZvT2RjYVQ5Tnlvc0JONEpxdk9tTEpSdWxObEwtdFNRVXZVYkhxQ3llWktURmlGclNfQ1NqTVd0M241VVpHSTRWTEVRN3N3NmZCYlZaRFdPdXRpakl3MTZKOVBUUy02dExGU3Z6WXNYWHBwbGJ5ekRWMDRrcTFPRVVKOGpURTdpczFfaE0wZjc?oc=5",
-        "published": "2026-11-13T14:07:16+00:00",
+        "title": "War in Ukraine | Global Conflict Tracker - Council on Foreign Relations",
+        "description": "War in Ukraine | Global Conflict Tracker    Council on Foreign Relations",
+        "source": "Council on Foreign Relations",
+        "domain": "Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+        "published": "2026-11-13T09:00:00+00:00",
         "indexed_by": "Google News RSS"
       }
     ],
     "Law": [
+      {
+        "title": "Naga Customary Law and Article 371A: Supreme Court's Landmark Ruling on Ancestral Land Rights - Legal Service India",
+        "description": "Naga Customary Law and Article 371A: Supreme Court's Landmark Ruling on Ancestral Land Rights    Legal Service India",
+        "source": "Legal Service India",
+        "domain": "Legal Service India",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLW82N2RPMlR2MjZudnpfdGtvMlk3T28xX01OUHRvYTVMYW5IQXZ0dHNfX0xHYVhZcjhsNXRpcEg5V09aZGl5ZjZybE5xNm5HVExuTWNudlp1OWUtSmplSWRzZm9DV2NqSjV6aDdTcjhfOEQwSVBRWEVlUmNYVlJzLUhlaGp1UkpJdnRBM1gzSXJUZW9pOTBScndFNA?oc=5",
+        "published": "2026-11-15T12:00:52+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Oposa v. Factoran: Landmark Philippine Supreme Court Judgment on Future Generations - Legal Service India",
+        "description": "Oposa v. Factoran: Landmark Philippine Supreme Court Judgment on Future Generations    Legal Service India",
+        "source": "Legal Service India",
+        "domain": "Legal Service India",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2xXUGxzZXhzeF84ZVc3c0dBRHFkVkR3dThNRmRhYzVGMk9jdmpEU1BjRFRsUVZlVXlWUlJtaHJ2SWhMb25zUWFmYk95bHFERzJUcXdoU3NDa1M2akE1OE5UYnd4ZnVnWlJlanlaSWx5Nl9xZzNuXzFGT1FhaWxZZjYwTE5wRE93NmllOWZ6aXBlWktPaHo4?oc=5",
+        "published": "2026-11-15T08:18:33+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Reconsideration of Two-Child Norm - Supreme Court Observer",
+        "description": "Reconsideration of Two-Child Norm    Supreme Court Observer",
+        "source": "Supreme Court Observer",
+        "domain": "Supreme Court Observer",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOY1RLWENfS2ZwS3l6Rk9wRWVBLUtzcTlLWDlGUTdwbGZxa1hlQ2lfWjlnaVNuZlhVenN0NUZQUWNXLW11WlVtR041VFY4ZFBqVlZROW5iSU1qZGwtTDJXMENlRU00NWUyZm1CeUZwdTZfNWxJOGR4MnhSOVR3a3kxeGRIc0pRa2tpaFhpNVZHQTdJWlFaZ2tBQ1NxVHZBQnV2a0RPTFBqQjZMbXVybFozOHQ0bzZvcDBLZ1lpNXBNUkFPVld3NlI5V3R2Z3VWQm1VN0Rta2lPVUxxTGtzSzM3UDBxajZoWXZDZTY2cWNVdmVMd0FYbm42NV8xUQ?oc=5",
+        "published": "2026-11-15T05:37:00+00:00",
+        "indexed_by": "Google News RSS"
+      },
+      {
+        "title": "Mutual Consent Divorce in India: When Can the Six-Month Cooling-Off Period Be Waived? - Legal Service India",
+        "description": "Mutual Consent Divorce in India: When Can the Six-Month Cooling-Off Period Be Waived?    Legal Service India",
+        "source": "Legal Service India",
+        "domain": "Legal Service India",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTE9vc2Eya3dDUjVfTEpJS0RBdS11YjBTME03N3RYbXBXZnU3VEN5VXFrODdYV2RFb2tjYjlnWE5WRTZ2eW9xUVlRdnFkT3lOR1VwMGdmWi1WZ3ZiOWpBT0ctUEVnQ3F2a3RkZ05CVUpQbHBTNVlCanU1SWU2aWVwdVZSSUFOX2JFcnVaYjRtMW1IRkg2cEpIaTFVczBQSnhzNE9DU2RGSXA3aFpFZnEtSlcxOW5nLUFOYXN4aXhqa1NKYXBOOW94UjR5MmhfQQ?oc=5",
+        "published": "2026-11-15T02:46:56+00:00",
+        "indexed_by": "Google News RSS"
+      },
       {
         "title": "‘Operation successful, patient dead’: When time rendered Supreme Court judgment purely academic - ThePrint",
         "description": "‘Operation successful, patient dead’: When time rendered Supreme Court judgment purely academic    ThePrint",
@@ -351,15 +387,6 @@
         "domain": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
         "published": "2026-11-14T21:17:39+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Reconsideration of Two-Child Norm - Supreme Court Observer",
-        "description": "Reconsideration of Two-Child Norm    Supreme Court Observer",
-        "source": "Supreme Court Observer",
-        "domain": "Supreme Court Observer",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOY1RLWENfS2ZwS3l6Rk9wRWVBLUtzcTlLWDlGUTdwbGZxa1hlQ2lfWjlnaVNuZlhVenN0NUZQUWNXLW11WlVtR041VFY4ZFBqVlZROW5iSU1qZGwtTDJXMENlRU00NWUyZm1CeUZwdTZfNWxJOGR4MnhSOVR3a3kxeGRIc0pRa2tpaFhpNVZHQTdJWlFaZ2tBQ1NxVHZBQnV2a0RPTFBqQjZMbXVybFozOHQ0bzZvcDBLZ1lpNXBNUkFPVld3NlI5V3R2Z3VWQm1VN0Rta2lPVUxxTGtzSzM3UDBxajZoWXZDZTY2cWNVdmVMd0FYbm42NV8xUQ?oc=5",
-        "published": "2026-11-14T19:25:26+00:00",
         "indexed_by": "Google News RSS"
       },
       {
@@ -390,24 +417,6 @@
         "indexed_by": "Google News RSS"
       },
       {
-        "title": "The New Instruments Of Control - India Legal",
-        "description": "The New Instruments Of Control    India Legal",
-        "source": "India Legal",
-        "domain": "India Legal",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTJVTUFxUGVhallwSVVrTXlkYy02Z0ZqZF9YX1U1QjZMXzdWM2ZkNlhZTlVWX0VQU09qOTJQNkxzOF9tRFZVeGZodjN6U2hMRGJyRGJfX2JiMFRmVDM2bW9UejlrTjJDd3ZoVWVpTS1HNUs5S0p1ems3VlNIeGU1Z18xN0htQm8zTU1rRE1fTGVTV3J6RzZPWW83OA?oc=5",
-        "published": "2026-11-14T10:49:38+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "CLAT 2027 Daily Current Affairs - November 14, 2026 | India-US Trade Deal, Delhi Pollution, Supreme Court Refo - Careers360",
-        "description": "CLAT 2027 Daily Current Affairs - November 14, 2026 | India-US Trade Deal, Delhi Pollution, Supreme Court Refo    Careers360",
-        "source": "Careers360",
-        "domain": "Careers360",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDVYLXlTUXA1eDFaV3FDalVKNmtjRi1xalFoOFlBMWpxQ00yX1ZmQVNQODRWOFhMZUtxZXlaT3ctSXB2dndabDh2VHlvV0JMZGdXWDdMZ3VMVlhpajdzeWZaV2g1RTZHbFhIRWRqejdVVk8yWnE2ZUlrMkFKSWFCWjdFRFF4TlZS?oc=5",
-        "published": "2026-11-14T06:14:00+00:00",
-        "indexed_by": "Google News RSS"
-      },
-      {
         "title": "Why can a state supreme court have the final word on a question of state law? - Britannica",
         "description": "Why can a state supreme court have the final word on a question of state law?    Britannica",
         "source": "Britannica",
@@ -433,111 +442,16 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2NOTmZRUGhZQkhwbnJHSmg4ZnlCaTVHcDdLUzlSRzNjT244WXBlSVdlNmxwU1pCZHhwS2hZTlFFaHlBb05sVW9SM2lJTGhxRVRKVVNLWVoxSUw1aDl6cWJ4TW83NC00eHBJRGdIX1ZyTUJ5OWdCbDQtQmJndWVxNmNn?oc=5",
         "published": "2026-11-13T19:48:34+00:00",
         "indexed_by": "Google News RSS"
-      },
-      {
-        "title": "Why the Supreme Court decided the wrong issue in the transgender athletes cases - University of Virginia School of Law",
-        "description": "Why the Supreme Court decided the wrong issue in the transgender athletes cases    University of Virginia School of Law",
-        "source": "University of Virginia School of Law",
-        "domain": "University of Virginia School of Law",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOSWRUd2tUcW14UGxlSEpnMEJ6M2pPN0JtRFpQa0xzNGtHMmVKM3U2VzdWekZXdmtoRHZYQjJXUVFWbGdTLUM3OS1wVmYxMlR1SUR3?oc=5",
-        "published": "2026-11-13T18:14:50+00:00",
-        "indexed_by": "Google News RSS"
       }
     ],
     "Politics": [
       {
-        "title": "SIR Voter List Deletions: Congress, Left, TMC Call Nov 21 Kolkata Convention - eNewsroom India",
-        "description": "SIR Voter List Deletions: Congress, Left, TMC Call Nov 21 Kolkata Convention    eNewsroom India",
-        "source": "eNewsroom India",
-        "domain": "eNewsroom India",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOems0Q0ZtR3ZfSHNjV013MFB6SDZ3SWljVnRPUHJ0UEV6dE5rT2dOSmdtUTk3ckZsQV9rOU9Hd3Z4S05LV0xGYzVVNVdyNFBSeDJPdldJeExmYlAwb3F5ZG0tRjRnNTlBaXplU3ZtbDJsSmIteTBfd2x4dGhFTHc3U0dmZkNmQkJTQk1zQUpoS25fMS1MZWU0dFh4cE4wd2x6SXo5Q3A1dTVnV25lUzVqQXdJMjE?oc=5",
-        "published": "2026-11-15T04:52:54+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "INC"
-        ],
-        "party": "INC",
-        "label": "INC"
-      },
-      {
-        "title": "‘Diwali & New Year meeting, nothing else’: BJP leaders on PM’s visit to Gujarat - The Indian Express",
-        "description": "‘Diwali & New Year meeting, nothing else’: BJP leaders on PM’s visit to Gujarat    The Indian Express",
-        "source": "The Indian Express",
-        "domain": "The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZTZ4dFZDR09nVjZPVlpWSGdfdDZrVjRIUHhFNS0wbVBXX1BpMm5zWjVlLW5ZY3RVc0UzWjQ2RDl2b0JqcVpfUUFLaFBuVjJIRi1aVVdOWGhobGZHOEZ3RmdvcTBOM2RDSVRreVFIWVMwemFIOFNYRDNnaUp1eEI5cWRTMjBranlfSzJZUVRtNzNhTHFzcWlLeFNkX2ludFZDOXo2SjNzeENOZHZBMzh5b1hVeVd4NDhONV94eC02aDNlT3pFNG5nT1JmTGJnaDNzMTBQSzBreVJoZ9IB4AFBVV95cUxON3Z0QVlWMEplNF9oNmM2ek52azE2VkJDLXlyMHVKcEtEVEZlZFc1XzhjUDJJbHFHSWNaamh1V2xFdndfLVVfV3NLVUh0LUdlSVNucTB2S2F3dXJPNkpOTjA5cDd5TnlsbmxqMmR3VjFlWUlKNGQ5cERsMDRVQjR4TG9fS1RSZnNXeExDRGxyRHlXT1cyX0IySV80ZWJWdmM2LW15TnNSbUVQMDF4cW9ZU08zYVAzVm9Ta0Y3T0JKcElrOE9OT2U5bFU5M2hHTThSRS1JZHI4S3hWWkJBdWdMZg?oc=5",
-        "published": "2026-11-15T04:08:10+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "BJP"
-        ],
-        "party": "BJP",
-        "label": "BJP"
-      },
-      {
-        "title": "CR Patil and Nitin Nabin’s visits to Punjab on the card, BJP wants most out of Guru Ravidas Jayanti - The Indian Express",
-        "description": "CR Patil and Nitin Nabin’s visits to Punjab on the card, BJP wants most out of Guru Ravidas Jayanti    The Indian Express",
-        "source": "The Indian Express",
-        "domain": "The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjgwU0dQYXR5dUxjbW5Xc3lsT0ZaVE1Ba05SWHd6YV8xMVRxejJsY1pxWDgwbUw0MHpMcnJOcC1SY2pSbU44cmhpZ09IaDhSRVljNGhuQU52d05PLVZyV1VOWE16OVZ4OWIzTF96QmZ1OXl3cjRCSjVyMXhOaXlSSEFMM09EMnZKcUloLVRzVXZvR19TbEg5WHJjUHdTOVlhaGlLZ2FLME52c3U3MWhmN3d6T25sSjBTLTROSVNMN2d1bk1UUng5V9IBzwFBVV95cUxOV0VFSmFlaXJmakNDLVA0MUtXMHBIVThIV3VabEw2bFBxQUgwQWI5MzA2NXdzSzhVQjBWX2JiLW5kVEpSNmNqU3dJcjlpN1dERGxCcXFBYlpTRFFTRGtSQnpvUElpekRuWlY0V1NEcTFMUFlEMHRBZkhUenoxbzFsaU95SnZmeW05OEJLaTE5aE5fdHd4VkRKTHJRaEN5UXRra1ZUSGZ2LXBFZllmaEU4NlhIZzV1dUJkckx6eDR6QXRIcTlpZEtqZGV1VGZVa1E?oc=5",
-        "published": "2026-11-15T04:02:56+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "BJP"
-        ],
-        "party": "BJP",
-        "label": "BJP"
-      },
-      {
-        "title": "Tensions flare in Telanagan as BJP stages protest against Congress leader Rahul Gandhi - The New Indian Express",
-        "description": "Tensions flare in Telanagan as BJP stages protest against Congress leader Rahul Gandhi    The New Indian Express",
-        "source": "The New Indian Express",
-        "domain": "The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZmFVZmRZaGRTb1pMZTBpZUMzRmd6V1ZlaThkYUJNOVFfZzFZNDhscVd2WXJxRGNTSmZyYnhVSC05c0RtWjdfaFE2RkZzVWV4RW9fQ0VaNjhaT0gxVmhjZ3FpTGJ4T2lWQnAtaVdMeGdEOEpFQjlrQ0FmOHFGRWgyTjd4SmxsVldfVGNCekdLSGZpV3JsZ0U3dk5kZzUtdEUwRkRvR2Jpa1pHeVNVNGNqd2pkaGk2bFVNeGF5QmdRMjNYMUZoemlUTHJiOTVXa0tGb0FndHVUYTJXaG13dFByZ0hR0gHvAUFVX3lxTE1zR05PNXRVYkNRTmlsSWJDX0J6MFgxdnYxSVlwYW5yaXY3NWRXYkxpS3o3MXh5VEVBNVJZSVpuV2VHR1FPYXJxd1g2QU5MMEl5WUpOY05Fd0dfMHVQTV9sTklWRmpDRzdxNnlEWU56UEp5c19mRmZQNEg5UlN2cTJiVUNEcDgtbFNBdDVKLUd5YkVjRE9rSkRYQTl5ZGFHLWNtdFBjNnFXeEhZZVpBa1MxOWtBTjZJcV80Nk5EUDJLT2hTbGx3c0k0cUpHaU1wSDFQQnVnQ3BZWktGVTFxRVBvSEcteGloUERCU09Wd0hn?oc=5",
-        "published": "2026-11-15T03:50:48+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "BJP",
-          "INC"
-        ],
-        "party": "BJP",
-        "label": "BJP · INC"
-      },
-      {
-        "title": "Telangana BJP president Ramchander Rao under house arrest, defends right to protest - The New Indian Express",
-        "description": "Telangana BJP president Ramchander Rao under house arrest, defends right to protest    The New Indian Express",
-        "source": "The New Indian Express",
-        "domain": "The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ2UySHdTbXE2U1IyOG9FOXNiR3VJb1RHcFhNRGtLMERQQnNjdm9oWGE5UWdaRjFJOXFmRW5sRlNnR2FONVRGejJlSDFFVGtBZXhRbjgwNmszZExDeTBPOUdQRDF3QkxpOXVZbno5U1AzNFZyUU1Ma3JXYldKaUVFTkNpX0RrVU5XTUlzZUdxSEl2blBfclhhMUtnZk1nS29lRVNFQ25hRTZUbmV2SmlEWUE0QXVFc3VLNWJyaHh5enF5SDZwMjdSNFhYY3BkOEhiSWlXa0dvc09kcWF40gHqAUFVX3lxTE8tM1A1QmlwRlF6SFVJbmRieFhtS1ZvcDlNSDlzc0Izb3UxeFdpNDJ2VEhoQmZZOU1ybmdnNkhNN0JaVXIyWkRydlNwWktveE9yRklaeHNReVBveUFNNnM1WV9iXzVCblJVQTY4aTdCZ2FxbzJWZ09hYVpWZVRFaDJhNUlPSHdSaXhsMXkxeTZzenc2blY5NFNYSkJ2QVk3RXNOWVRnVWVYNjU0RV9wZHpVV1daY2dBRjNwdWlWU0lNZ2JEenRFRi0xMTkzbGN0Unh5SDhsbjVwc09YQ2VBN2M5bHRKX3ctbUtyUQ?oc=5",
-        "published": "2026-11-15T03:49:32+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "BJP"
-        ],
-        "party": "BJP",
-        "label": "BJP"
-      },
-      {
-        "title": "Political tensions rise between BJP and Congress following Bharat Summit 2026 in Hyderabad - India Today - India Today",
-        "description": "Political tensions rise between BJP and Congress following Bharat Summit 2026 in Hyderabad - India Today    India Today",
-        "source": "India Today",
-        "domain": "India Today",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeWtOVFVnRXhIdlBWeTVxXzM4Sjlra180R1RDNjF5MFFRSjNsT2tGU3RUN2RxY3k4MkhqbFI2YndtblRDdWRJSkg0Z1RMSmR1U19MRUxPYkI1RlJyYXpFQmpTcDB6SWhOb19TeHRWZ0JnQ1pnaGZLUG5tT01ka2ZkS00zbVJYSWtGTm93cXptbktWUmMtY2RUblRHTHIxbzVxQ3hRM21OX3oyaWd1Tjg4eEEzY2h2UWhHTXFxQU1tSndpOE41OXdNSTVFQnBEMFNvdXhWZ0tIcFlwZklnRjFhUF9Qc3F5QnE20gHaAUFVX3lxTFBkSkZVWkpsS1dmVEIyUWhOMUpJYkZaUkp0YnBzOEppeHpPNndhWHlGNkYzcUdPRW9NXzFlUVR6WE5uY19mUDhjaVlQRXM0M3JScm5yOEM0MmRhOXFiYzJfS0tNVVNIblVmamZZNXlURjR1NXVuMThqb25ZN0R4aEFlRG9MNWZKY1V0OGdTTmM5YlRYRGxXcEFzblo1S1ZPQmRKT3ZMLXh5bFF0LUtWb1RfNHhzWndtbksydGN1Nklvc0NaSXUyTDhqUnIzaGpzb0poR3J6M0dxS1hR?oc=5",
-        "published": "2026-11-15T03:16:02+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "BJP",
-          "INC"
-        ],
-        "party": "BJP",
-        "label": "BJP · INC"
-      },
-      {
-        "title": "No VIP access for BJP MLA’s son at Ujjain's Mahakaleshwar temple after reel row for a year - The Times of India",
-        "description": "No VIP access for BJP MLA’s son at Ujjain's Mahakaleshwar temple after reel row for a year    The Times of India",
+        "title": "Samik asks BJP workers to show restraint, extortion a new normal, says Swapan - The Times of India",
+        "description": "Samik asks BJP workers to show restraint, extortion a new normal, says Swapan    The Times of India",
         "source": "The Times of India",
         "domain": "The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbG5iaFZpVzh3QThVMzdOQTdCZUYwNTZ0UExlTmJZQ3Z5LThBMTR5bVNISTdWcUtaUVEySjkyTXN0R0RwanhtUW11UHFTQkxjdldrc2NJTF9sU2NYX0RyRUItU0lmcUYxQVptNHNtUEJtRmZ4SUNYNUFpdGZZUDA4SnpXNkwzZm5UMmh3NmhhWGVOYm9pTFRSYmxDb0xnWlQ3eVRyNDZSYV93dnkwNlZxRUpYUHNPRHhya0IxOXJJaGNWT1paUk90MDdBZmRfU0FtQmJWSzFwWm43U2EyelctS0ZSTXdtZ9IB6wFBVV95cUxQZnBUUXNTbVlpUGFvLVRrd0oyZTRGZTBGQ3pvOGo0OXRJNjVQMnBHMkJuUjJFYjZFT3JBLXhtUU43ME8xLXVPdjR2a0ZDaVU1bXNSdi0xdWhjMFNHWXJZVHZNdUVCWWpXOXdlTGVlelB1TnVGOHZhRkZta0JmZDZEVGZXdElMcjZ3S2RyR2lvNGt0WmEzb1RSYnpOLTU4ZWFFd1lwc2xidVd4ZzBxWXFQdXdTdjNwUDRkaEt3MC0zd1dIdFNGNEFNak9UaTNqSy1JRjBKWkhyLVBvQWhVUm9yTExjMElVVWZzTVhj?oc=5",
-        "published": "2026-11-15T02:43:00+00:00",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRVN5c21JSGNBeDBEaUlSQXhVWS1CYXIySXBaOS1VMHNCUXRaYWkwV25CUHdkTlhuMzU4U1pHV0dDQUgtcUJuQXJXRkc5N0wyOWk4akVhem5USlQ1SmMzcDJmekdyME9PRHRja1NOR1hibDVsQXYxMWVXdHROeXVpTEhfN19TYW1URDFDdHp0WWx6Y2pWTE8zcXBKeVFBV2tsN0xoN0dLVl9HT2hxWEx5dHQ4ZGNGYjVTVXY0NWlVSzhlc2VGRkNJeU9NNk1OVm1uRDQwOTc2YWs4ekpjOHBJbEJ1TGvSAeoBQVVfeXFMT2ZyVjNob2FlNkJLdTg2aFFXUjNKSnE3bjlQaEFPMTZoZXlQbzRFLTBOb2t5Mkw4c1MxNGRBT0VxVmdnRWtRUy1GRjdlQ21hd0xCVXM2eFBQUi1Gc2pGeC11UldxVkNvRlM5QVZzbVFzMHFqZEQtaEhTTWN0QXdNZDRCeVVoeEtUWURtdUZNWld4TVNLSGlxV0xPZWNvcUV0N2wzY1FtdllkY0libmxOY3Q0bVNOcVRPRVo4NjZVUFFIWmZSbjM2LXZ4Y0I1QXJhbWp4dVRZTGQtTE5QZXFRR2huNVdCeF9PTy1R?oc=5",
+        "published": "2026-11-15T14:51:00+00:00",
         "indexed_by": "Google News RSS",
         "parties_mentioned": [
           "BJP"
@@ -546,56 +460,12 @@
         "label": "BJP"
       },
       {
-        "title": "Congress and BJP clash over Bharat Summit 2026 remarks and foreign political comments - India Today - India Today",
-        "description": "Congress and BJP clash over Bharat Summit 2026 remarks and foreign political comments - India Today    India Today",
-        "source": "India Today",
-        "domain": "India Today",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzMyNTJ1RVpOWG40aDA4a2RoQVZ1MFFJei1WUDBoZGROQ0Y1NnlwaFp0TzJJQ2FpRmsyZHJhZnA0U0VVUWdmR1dMdXd4SW1jb05zMFU2Q0szbHlteEtMZ1pEalBqZG01Tm1CdFdDdkRLdnRpbXZ6TzJ0ZXpGSjdDM2xxbm12VFp6Q3haLTVWdjVhYTdveVJZWkhJOG9zU0FQM3lfdG41alFXN1ZMSGtTMlBFYnhOVjl50gG-AUFVX3lxTE9DbWU0eHNmYVIxZkZmbVlOaWtUNFl0Ykc0TUstSXV1b2dTbDZnYWtUeVEzS0pndEVoemxCQVNHZkM4RzExWDk5N3FjS2ZFTzFyUENpMjVTTVpXbWd4U0tvYWN3Rlk2Zl9xVFRfMnpDNUpfWDhkdkQ3R3hnMTBiUVdkTmtUanFKem11bFh0bmZCaDJvaEpoNGpOMG9MYnZHOC11cmNzU29pNm01YjhraTVYSUkzNXNrUjZuelBQZkE?oc=5",
-        "published": "2026-11-15T02:23:08+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "BJP",
-          "INC"
-        ],
-        "party": "BJP",
-        "label": "BJP · INC"
-      },
-      {
-        "title": "Partymen blame Congress leadership for delay in appointments to boards and corporations - The New Indian Express",
-        "description": "Partymen blame Congress leadership for delay in appointments to boards and corporations    The New Indian Express",
-        "source": "The New Indian Express",
-        "domain": "The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWlFVLUJmRHF6bndKT2g1UGVjMXhTMWxtMGEzekpmLVZQNFg5OVVkd2Nld0pMY1FpUmg4cUFyY1pDZWluT1JtV3pWeWdJU2RlUjlMRUdTTWNESWpLR0FIN2d5UjVUTkU5WkFZbzFRZkY5M3dhOC00cTdxY1ctdVlyYXoxa3dOSThWZGZpRnVtc2dibkprak92QXJxbjZWMGJMbE93U3RrZHpzYjFyTlFuRkNLWEdNcTFsWmZpZ0lTeVFsQXVGSVJNQ1FaLXZ6ekY2Vy1tLWkwMEk0MTRfaUhz0gHsAUFVX3lxTE5lMS1uNjdHZTBwX0pYdHc3U3N0Vl80MFVzUkFhX3RlSWJwMEE2NFZfTENza2VzWnJyemJpVi1nSzAxWjZkcmJHSTk1eW9ONkZ1TEpzYTIwd0tjX21FQ0gwSEE4RzJIdHpPbjE2QVU4eFRmVlc2dXZ0aFI3VVhUTEstbktZQWpVRzIyVHZRV084UGN5eUN6T1NUSnNSRHhEN2ZnbzZJRW9xQlBMWXJnR1hERV9DTTBEVjBZazgwQnQwb0FGczVFcVpOQ2ZvanNwQlprMVJva1NpeTNaOC05eVBkSHVDZ3VKaEF6c3F2?oc=5",
-        "published": "2026-11-15T01:51:52+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "INC"
-        ],
-        "party": "INC",
-        "label": "INC"
-      },
-      {
-        "title": "BJP in talks with ex-CPI MP Chengara Surendran - The New Indian Express",
-        "description": "BJP in talks with ex-CPI MP Chengara Surendran    The New Indian Express",
-        "source": "The New Indian Express",
-        "domain": "The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWERHX3dlTkFhOXN4T3NmeUFzNkFoQ3ZsNmdBN1BEYzdQeHZXWHMzcWRudHJoNk5MQzRHU3p3eWZISndDUmpNWFM2RzE4Wnc2V0lDQS1UTWotbWhVZEhxbnQ4bUpJR01CR0Z1T2RWV0tzcFNJTko2bzJsQURRaURqSzVxcnFXdFdRdFdrVk9PaEhNb3RXZUNSLTl3RU90a053Y3Zxb0NsT28?oc=5",
-        "published": "2026-11-15T01:50:20+00:00",
-        "indexed_by": "Google News RSS",
-        "parties_mentioned": [
-          "BJP",
-          "CPI"
-        ],
-        "party": "BJP",
-        "label": "BJP · CPI"
-      },
-      {
-        "title": "AICC appoints BM Sandeep as Telangana Congress in-charge - The Times of India",
-        "description": "AICC appoints BM Sandeep as Telangana Congress in-charge    The Times of India",
+        "title": "Trump blames Biden for aviation chaos, presses Congress for ATC funding - The Times of India",
+        "description": "Trump blames Biden for aviation chaos, presses Congress for ATC funding    The Times of India",
         "source": "The Times of India",
         "domain": "The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEpod1lRUElTM1ZEWnZ0czA1amJkbThzUFdYdG1ZZE1CNmZOWGJaOUdfQmNrcGQzRlhIcHpJb3hTUG84YXBiak5MUnZyLVFULTdrMHk0ajBxOE1xREhseDZVX2dqSjZvc0gzYVh0VWZZZWRMQld4eDRSMG80UmxQVndyQjh2M2JXQlM2V3VNa0FkVXFZc2ZQMlVCTVBjeE5xUm5ONHpObzV2OEtLZ0dkS0U1Qk53X3c3UWs1TWRPTjJlR0xjRVM2b3NxMl92UdIB0wFBVV95cUxNd0dUY0phaG5IUUhybjVabTRLdU0yLVNnTllpRVh2VVYteE1uSjBDRHpTWmppNFRsUko0VnZwejZpeFh2SFNkbEtoNUFTTVYyYUhEZ01wcWVhTkpoelFMWjlwZXhBYTlEeXMzZUxqdkNZX1JnWG94bUhiREdlam5BQk9uQ3FDU1VIQkJ4TjNralJoMmx4ZzdSQ05EV2tsQUF0R0xlVkZETmNRTDJpMXB6SEI0MFlCT0ZXS3FtNzA5X0VzMTJvN1JPTUZlYlJVQzVWT1hj?oc=5",
-        "published": "2026-11-15T01:50:00+00:00",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdkRaVUh5UXhHS3NmdzcyQmNfNF9YaU85SlJNQTdHTWFvRDBJZ0RsUmhrOGNQUnpYUWROLW5FaDRCcDBpTXZ0cGNMUF9aT2tSOHVQVVd5TmxLSWlpX1piNXA4ZEtwbm4ybGFWTk4tcUNHOEhBNnRYaGhhOG5oQTZHcER4VE1GV3FTcDFTaE5tTDQ3Q2kwYkU4c0pyY1VVVkQtRHZ6cXZBZjFuZFF5YjRzWnY3akVITm9LMHFaMTY3VEZvclVYczdZYlR2UE5KQlJIVGwtR0xIV0vSAd4BQVVfeXFMT1Q2c0pvWElBRGpiQTlHNWNnOWMwRTJ6dlVxZWdDb0F6RzJTSlJSdE84SFp2UFpVMHlTeVdJekQ1MDJVaGZZcWlCMVhPenVqZ3JkZ2JiWXBjYWdMdWRSVHRZaldJa2lnVzRpSGN6ZklxNVp4dmRnT19ZZnQ1RmdNU0lkOXlMbGd1X0xoYjIyZE1pbmNZOWNnLXNGNndrc0pfQnBTQ2FlMEJmTmN1X2dyODJzT2k3V214anJsdmxlQW1tLVRZWVl6TTQxaklfek94bVE0V3hMa2M0T09UeHh3?oc=5",
+        "published": "2026-11-15T14:49:00+00:00",
         "indexed_by": "Google News RSS",
         "parties_mentioned": [
           "INC"
@@ -604,12 +474,110 @@
         "label": "INC"
       },
       {
-        "title": "BJP sees Congress ‘agenda’ in Bharat Summit invites, raises George Soros links - Telegraph India",
-        "description": "BJP sees Congress ‘agenda’ in Bharat Summit invites, raises George Soros links    Telegraph India",
+        "title": "Leaders pay tribute to Birsa Munda at Parliament complex; BJP criticises Cong for no show - Cityairnews",
+        "description": "Leaders pay tribute to Birsa Munda at Parliament complex; BJP criticises Cong for no show    Cityairnews",
+        "source": "Cityairnews",
+        "domain": "Cityairnews",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM05EdG5WRDFaLVFPSTVZUzF2dGZ6UVZWY0Fzbnc0RmtJMmZ3bDZRYWVwSENFdi1IMHdHQWIzUDhyeUhHQkNKSUlESmt0dUJIQnBWX3BoR21XWEY5T3lYNEROaEVDQi0tQ1FlRVNkLVdCcG5XbzJZRHJzVGFNYzBjWl9aVzdaQmJDNGFfeVpXa1hvdk1yaHMzU0VsZlhPRkhmN3BpdEFYbzJMM3NVOTdjYThZcTFNZWl5WnlDWm1JdWVUZw?oc=5",
+        "published": "2026-11-15T14:43:50+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "BJP"
+        ],
+        "party": "BJP",
+        "label": "BJP"
+      },
+      {
+        "title": "Punjab BJP forms manifesto, chargesheet committees for 2027 Assembly elections - The New Indian Express",
+        "description": "Punjab BJP forms manifesto, chargesheet committees for 2027 Assembly elections    The New Indian Express",
+        "source": "The New Indian Express",
+        "domain": "The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXVLYURKWEJOVW1hYjBQNlFHcmdxRjJmQ3FlMTdaSGs4LUhVcnY2NWQ1VzFPUmtVZ20ydWJiRDNRdHNkRHd4UlVmc2pBTEdnblpXcmtvS25zeDdDSU1RN2gzeUFBcWtCYzdINmo5ak54ejQwOWxWZmV2TFZZVmNja2J3cUc3QkZUaDJPOC1UN0NPMmRvUXQ2dy1XQzZCam13T0hYeWxsSWtCbmh3ZE5yc01RQXg3X2pGVFE3WFZYR1I5Sm9NZldz0gHUAUFVX3lxTE41ZnhsX1hGVUtRb0JudDVVUWYyRFVYQUtMNVhjT1UyYjdwaVBXaDZDNWFIV2o4OS1XeE43aWhEcVVZSkppR1Z5RUcwX1Z2cWE1d1RuV2lNS09xNFlnd3lrc0VRakRHSS0tLWRoQUJZalM0ZjVvc0s1VDFmTi1GOHhkR1YtR2psMlZoX1kwa0phWWx3M1ZPX1pMUk1JN2RqWUZYN3BBUXV1dVMzeE9OS2hESDFYbDhpTXMyelozQmNEWkQxTWJYSGV6Q2RoZ2FSQkZ3cjBX?oc=5",
+        "published": "2026-11-15T14:43:41+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "BJP"
+        ],
+        "party": "BJP",
+        "label": "BJP"
+      },
+      {
+        "title": "SPO killings: BJP leader terms MLA’s mosque announcement claim unfortunate; Muslim body seeks apology - The New Indian Express",
+        "description": "SPO killings: BJP leader terms MLA’s mosque announcement claim unfortunate; Muslim body seeks apology    The New Indian Express",
+        "source": "The New Indian Express",
+        "domain": "The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObnAtajA2N3BUOGpxdGZ2MjNtczZLaHpRa012R1hoTWhmMHgxZTFPOUhRdHhBbHd0VHJtOU16MWs1Y0V6LTl0TTRYekpieDFYTGMyM0NZVDBUaVhUbmUxR0poSVc3bWFNeUZsckc0Nm9ydTNwQWdIZTF0Zmk0aWNsbDZDdzJRMlh6RWctT0VzZEVoWnNXcXpJaUhpM3ZHdUJYN056NVJYWnp1MjIzVlFieHlqSEpBYkRPbGlpUGpYZTluc0lqQXNoSWROXzkzRXUtbnByY09EX1VVMnZkYi1BNXVJd9IB8AFBVV95cUxNVVpsWlhNbjNqOVRGNl9uS3gxZHdZUmVyTUJhREZHMzNhWTVjTW1KMjZmNXdVaDYybjdwOTY3TVlKajZiaGVnN044NFBhdnRKLTljVF9qQ3JCcDctVk1FYlV0SmNteEJOSDRseTdwdjJieXNiR2lBdUN1ZE01Uzd0ZC1xTXhOSC1QN2RqdDdCcUNIdHN3ekR4cy1YeXBneGZhZWp0UWNNVEtqVURqQ2ZhdkFmNkl2Y0NiNUc3eVZvREo0cVBpaWxKRHFMSmU2Y3U2SXJCaDlsaEY5Mk1KclhqTC1oa3FqT2VlbnlQRk1UUlU?oc=5",
+        "published": "2026-11-15T14:42:18+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "BJP"
+        ],
+        "party": "BJP",
+        "label": "BJP"
+      },
+      {
+        "title": "UP deputy CM accuses Congress, SP of ‘anti-national’ ties to oust PM Narendra Modi - Telegraph India",
+        "description": "UP deputy CM accuses Congress, SP of ‘anti-national’ ties to oust PM Narendra Modi    Telegraph India",
         "source": "Telegraph India",
         "domain": "Telegraph India",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNam5NY25NQzVMbXo5NTlheHB5WWgxWnVncVVWenVDeVdFOTRmUlU5LTRpNmZ4aWRJQU9fcDA1T1huMXNyN0VGd1lKdE53Q2NOVTd3aktrWl8yWFQzdXA4ak9vOXBhdWlhbGg1dV8yTU5td09ILWQyWGNJV0s1Q2lsWmtsVURob21yYTZsUXc4S0JHUmtzVGN3ald5MmJ3WEUwOGxqUE1BcW5TS2RURjQ3TUNyOVVxOG5wTXNHMW4yMHVFZzZZdnlaM9IBzgFBVV95cUxNazhYVENlSjE3OFJLRnotbHNVTmpSQmI5MEdKTmlQb2FDbkJVeG5tckZ6QkxKYVIxazhMT3lJd2x5S1FIWXhHV1VFdC1BYUtjT05HR1hoNnlNdWtNcERfekhqX1lhZEFaV1ZqbWp4Ym4xdk5vY2NwOWZLOTlRTkFSTENBdnVwendFSUpnSDlMbXhBNFFSYndjQXFLc2I0SXpGRDlJaVZOSTI0Wm5QSmdza2RBWE1yM2FyRE9mTHlQV1pvTW1jSHVlVzdpZjNDZw?oc=5",
-        "published": "2026-11-15T01:48:09+00:00",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOHM4bXBmYkQ2b0szVG9XTERKMmVFT2Y5VGc5UEFMakV2LTJ1bDM2d0VuSm12RXkwSXNMcTlVTlNtWENveFk4TEJKdUEyTDBzU2hWZEpTTElnb2VURG1NN204eUpweDg1VUo0WHkzY2Q4R3g5TXFWWTUwUVNEaUhvekswSnV4VmM4SWloUHJCVEhmVkRWX2xlSnJEazFsdEJZd1RQcldRTmxSSzRDT3FfRXYwYldNM19ZbHBCMkZka0c0UWtlR0U00gHMAUFVX3lxTFBnU1B1RnJCY1IwdmRwTFl0dmFaajhHNmpTSE1VcUx6dEFyUGEwUVJXUWpucWd5U1o5dmFsZU12QXZkdXJWZlJGSzI2TjRIVHNlSHBOa1psbGxGcjhwa3p4SHdmUWpyUDhOX1RwLWluWDQ5V2xZSURYN3Q3ckpkMzVxdTVEZV9fWXo1S3ZLMGFfRzhOZzh5dFNrYUJ2VXo2Ums5SGx5dGZ5OGl5dGFTRHdWal8teVNHZGdHWTNQcXIwbkJ6cFczaGRvSDZBSA?oc=5",
+        "published": "2026-11-15T14:32:21+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "INC"
+        ],
+        "party": "INC",
+        "label": "INC"
+      },
+      {
+        "title": "‘Idea of Nehru is part of idea of India’: Jairam Ramesh accuses BJP-RSS of targeting former PM’s legacy - Telegraph India",
+        "description": "‘Idea of Nehru is part of idea of India’: Jairam Ramesh accuses BJP-RSS of targeting former PM’s legacy    Telegraph India",
+        "source": "Telegraph India",
+        "domain": "Telegraph India",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRGgybFVmb2FIOGppb1ZtVXNHeDlfb3piNDFUcXJBQnF4U21SelVnOGM4c2FqWEVJNzVjdUJPbk5YTmJoRHloYXE0MWVXc0VEUWgwY0U4TDFxOFlhOU5KeHA5UnA3cE1oeXM4endtdEtsUjQtVjJ3NUR4MmZ2NlA3TzEtcnVUM2NUUmhVc1NEZjNmc0c3WlJSOU9NSjlXVF93MU96UFdoMGtDclhjZzFDbFBmcW9NYU05QnIzYThzczM0UFhVMU9EUnIwakhCOFZKMTRZZVN2MHRMajNWNnJYcjVrNFNKLVZQand3MERpZEY1MXBsemNJX2hHNnpheHg00gGGAkFVX3lxTE42b094THVoU1o4ODZaUGpnQUtyTk5wcmJsVHpDOEV3QVVhUWdZLWZVdWdvUTBuSkE0eno2SV85RVJsbnhaMnRaZ2M1OExBUXVJTC10Q0F2aGw0aHJTVEhaZlBjOHNCNGVXN0U4dktMaTlITzdNaFJUZEg0Vk1IT2NjMVRXZmczWkhNTS11U2d5emZubWpSNzhMYjNGaUFNWEVQV2xJOE1uVWZJZkdtay1sQ3hiOUF1WXVvazJ6UDdnbXM4NWZhem5rN1lOOHdtT0tzcEt0b3JDdUVtS0daTXViNHd1anM5ZDVyZktJZHdpMG1ZNWVKc1V2cW5MZUc5REFia21nZUE?oc=5",
+        "published": "2026-11-15T14:25:43+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "BJP"
+        ],
+        "party": "BJP",
+        "label": "BJP"
+      },
+      {
+        "title": "BJP holds division-level meet in Belagavi - The Times of India",
+        "description": "BJP holds division-level meet in Belagavi    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjlyNkpqdHBRZXpkNzJSVy1Lc0VYWEY0TXR3QW01SFlLUm5sNUdyZEw4MUtoMVI4RG5GNjNWNy1odFFpbXBlN2l0aDBuSXltbmhZdWk3dlJRMWRVMXBrVEo0SklGajd0aVdlMjF0MTVTbThNOWh6bi0wZ1pNazhfb3lkY0Z1NmpIaDZ2TlMyOHpfdFRIRkJGc3EydDV4Vy1hYjNfMmlwSnRqMXhHV2RoeC1pd183T3pZ0gG-AUFVX3lxTE1jS0pOYTFqRTJIczFWSWtVY0UxbjBta2s2S09TQnh3a29waEEwTXNCOUxNQVdfSEY3V0RkZjFHTjdxM1VqM3dRNnowWjVFX0hQWFNtdGUya0pERG5vbE9HU0ZrVWxvdjBqV1JzWnI0SVhLSTluajVjaXQtanFxNWlqaXpxSVpLdVI0dHpsMTlueHUxMUNUeUhfcU9UVDNYNVR3dHppbkYwZ2pNWGFWZGExOUZaQ1lhYlMtMFFBYXc?oc=5",
+        "published": "2026-11-15T14:22:00+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "BJP"
+        ],
+        "party": "BJP",
+        "label": "BJP"
+      },
+      {
+        "title": "‘Double engine now double zero’: Akhilesh says Dalits will oust BJP from UP - The Times of India",
+        "description": "‘Double engine now double zero’: Akhilesh says Dalits will oust BJP from UP    The Times of India",
+        "source": "The Times of India",
+        "domain": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSzU0NWVucGVySk9haGxyamtXVVZXVm5oa0tvVnZDbUNSWkN6c19rLTVPNTJJQm1qYzRlaE51RnV4anJqLUdkSFBuSnFPd1VqQkM3VkZucm9ETE82M3ViYy1DTjJQZGszTEh6TXRyWm1kNC1QU0FNc2JZNk01VXZUeGt3OXUwdjMta0hXQ1Q1b3VyWlBDRHlOeGZqbW5rZzIzQ0d0eHhZYzFQRzVjMEdFVmVOWkJzdWFYNjNXRzdCZWg1T2Q4UVRVVnBJX1BOZEsyWVZCWElQN3k1RlJN0gHiAUFVX3lxTFBBR1hLYk9WYldQd1FYeGlONzZGSjJGRDhkNDM4bFY5aWI3VkRfcEUtNnVsbW8zbUNyZ3pnUEhzRjFQdGFUMEwxX3FyM0FuajBZUzI3VXBnMXlQblRBNTlrNXM5azlxMm5TbV9DR0hDd2h2RFc3RmlNUmljUFE5b2dVRGFUbE8tanFUQnpkV0J6VzZlZ0tFLU8xMkl1NTIwZVRNNDV4S0VNRkh4MFJBMENUVWpvcFlVZ19PQjB4alh6ZTNLNE00WUJqRE5BVGpJV0FrWng3VUo2VDl3WWU0TjdjMGc?oc=5",
+        "published": "2026-11-15T14:14:00+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "BJP"
+        ],
+        "party": "BJP",
+        "label": "BJP"
+      },
+      {
+        "title": "BJP may not return to power if civic polls are fair: Tripura Congress President - India Today NE",
+        "description": "BJP may not return to power if civic polls are fair: Tripura Congress President    India Today NE",
+        "source": "India Today NE",
+        "domain": "India Today NE",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdW02TmdLWk5IYW5Wa09YODdOVE0xSUpfcFM3ZGQ2X3pFVGJzandjS0pSU3EyZ3hJV19sQ2J3eUJCSFJDaUdoYW5yN2FIamRiY0VNVmNERVg5YmY5aWR1UktVbnY1dzM0OTBFS05rVE1uVlBsTmJyam9DR3BTWDU1MktVa2dxaDFqeVRONGZhcGwzbVJJR0duQ3VOSzdPendaN2lRNmtIbDJleW52Z2xubHlQc3I1NjFLYWZubDZVby0zT0p3ZjYtLWVoLVJKcVdJYmVyN2Vn0gHbAUFVX3lxTE53MzEycTJyR0FyN2hFNW1teVo5SkdoUm1fMzg4Mjh3X24zbnJESU16Tjh0dko0TnB2MzFjMVRhemhBV09DMG45YXJ5cVg3UHFuRUdDaTAxTWVrUUZxaHRYWDk0T2hmdy0xcEVCbUFPVk1wWHN1QURJNW9ObHU0VVFvM0dMXzhPeTlGUTE4TUhxR0VKM0VkUTYwblhwa1Q3a3huQktTMXAxbDV5LWVyaXFFaUlmUFVLNGpzLUFuc0dkd1pWOXI2RGktWThMc2ROOFpuOEJEX3Y1Vjd6SQ?oc=5",
+        "published": "2026-11-15T14:07:19+00:00",
         "indexed_by": "Google News RSS",
         "parties_mentioned": [
           "BJP",
@@ -617,6 +585,35 @@
         ],
         "party": "BJP",
         "label": "BJP · INC"
+      },
+      {
+        "title": "BJP Mahila Morcha demands removal of Harak Singh Rawat from Cong Election Panel - Garhwal Post",
+        "description": "BJP Mahila Morcha demands removal of Harak Singh Rawat from Cong Election Panel    Garhwal Post",
+        "source": "Garhwal Post",
+        "domain": "Garhwal Post",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWnQydHhVV2NMNnVSLS1YeDhWak1sRGhlT2o4RUNFTll6cmhjYUdlTVdBUW1Va2NleWw3by14VVYycXdkb3FfNG9LNjhzNnB1WTEwOW5mNWRnYVdVU21Ud1l1b05sV0ZLb1lnMWtycUxuZkE0M19HaklQUFRNNHBOZzlFVVlkS3dKQXg3Ui1aZDZVODNHNUdheXZrdU1mSzRueG9LRlBB?oc=5",
+        "published": "2026-11-15T14:07:14+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "BJP"
+        ],
+        "party": "BJP",
+        "label": "BJP"
+      },
+      {
+        "title": "CPIM is not a challenge for BJP; our challenge is to meet people’s expectations: Tripura BJP GS - India Today NE",
+        "description": "CPIM is not a challenge for BJP; our challenge is to meet people’s expectations: Tripura BJP GS    India Today NE",
+        "source": "India Today NE",
+        "domain": "India Today NE",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ0h0Vlp2a0dmN1AzMzUyeTlYQmUwb3BGLUVndDM3WnRNRnVCMnpzYkUwd1YxYjdKQ2R0Vy1uUHBqcUV3X3BFdl96Uy1JNGpPMlltMnRkR3RRMi1VX2NSbkRVN2pFWVp5N1E3RFNKbjh3NmE4eWloVDZPaWJ6cXdQMjVjd2M3TXp5TFlFeHVILVo3dTlQUEY3MjhxakgxRGZ1a01PZ3NpZkpTNmVYdU5vcWs1QURvWmJPM2FHN29ZbXBjdFdHMlhyYjRqLXEtRXB5X0U3X2dkVHkwZFNfVVN0ZmJkbEhDVVA40gHuAUFVX3lxTFBqVkRnVkRxYV9tX0oydUJlNGpkUi1fN2VxZy1vZ3Y3NEF1X19jSmR0bUJ6U2d1bGZEdTRQUlBCX3RXaG9DWmNwYzFiaUFyX0twaFJXUm56c2ktSDA0eTFmaWYzNVNKcVExc1hSOWlMWkM1YV9pXzMzeEJ2ZVh1YjZULWljZ1N6U1UwTFNIdlpqaUxiNjNNYmlvUzVpOXhSME5GMk5Ka3MxLWZZTy1jaVRCV3pPcDhESXVhTHpqaGE1WTd2amVVcngtQkdnX0FVYmY3UVZzYzl4ZVdVRW5QWnhVbm5sX1p3QkxIamtjb2c?oc=5",
+        "published": "2026-11-15T13:59:45+00:00",
+        "indexed_by": "Google News RSS",
+        "parties_mentioned": [
+          "BJP",
+          "CPI(M)"
+        ],
+        "party": "BJP",
+        "label": "BJP · CPI(M)"
       }
     ]
   }
